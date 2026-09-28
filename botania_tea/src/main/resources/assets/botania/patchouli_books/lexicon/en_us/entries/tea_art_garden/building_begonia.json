@@ -1,0 +1,15 @@
+{
+  "name": "building begonia",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:building_begonia",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Sneak-use the held flower on a container; plant within horizontal 3x3, vertical +/-1. Empty-hand use opens preview; use block faces to select. Redstone starts work; power off pauses and power on resumes. Sneak-use cycles single, line and level platform (last two need two points). Range +/-8 horizontal, +/-3 vertical. Each placed block costs 20 mana; existing blocks stay. Preview ends on completion."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/building_begonia"
+    }
+  ]
+}

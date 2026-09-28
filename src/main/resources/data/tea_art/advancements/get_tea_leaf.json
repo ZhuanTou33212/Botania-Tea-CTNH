@@ -1,0 +1,30 @@
+{
+  "parent": "tea_art:root",
+  "display": {
+    "icon": {
+      "item": "tea_art:tea_leaf"
+    },
+    "title": {
+      "translate": "advancements.tea_art.get_tea_leaf.title"
+    },
+    "description": {
+      "translate": "advancements.tea_art.get_tea_leaf.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "has_tea_leaf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:tea_leaf"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

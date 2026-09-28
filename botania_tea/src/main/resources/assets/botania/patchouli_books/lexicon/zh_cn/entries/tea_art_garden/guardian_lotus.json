@@ -1,0 +1,15 @@
+{
+  "name": "守岁金莲",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:guardian_lotus",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "无需魔力维持11×11水平领域，阻止玩家拾取地上物品，并保护领域内掉落物免于TNT爆炸。不从池中吸魔，也不是封锁所有机器收集。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/guardian_lotus"
+    }
+  ]
+}

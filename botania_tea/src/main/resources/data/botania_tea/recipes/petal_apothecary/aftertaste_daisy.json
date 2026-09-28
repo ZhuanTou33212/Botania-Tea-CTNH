@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "tea_art:green_tea_leaf"
+    },
+    {
+      "tag": "botania:petals/white"
+    },
+    {
+      "tag": "botania:petals/white"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "tea_art:tea_residue"
+    },
+    {
+      "item": "botania:rune_fire"
+    }
+  ],
+  "output": {
+    "item": "botania_tea:aftertaste_daisy"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

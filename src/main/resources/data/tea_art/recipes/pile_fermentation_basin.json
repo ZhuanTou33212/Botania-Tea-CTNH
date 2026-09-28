@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "P P",
+    "PPP"
+  ],
+  "key": {
+    "P": { "item": "tea_art:tea_planks" }
+  },
+  "result": { "item": "tea_art:pile_fermentation_basin" }
+}

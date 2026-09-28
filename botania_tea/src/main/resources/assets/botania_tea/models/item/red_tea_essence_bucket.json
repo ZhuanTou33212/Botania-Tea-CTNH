@@ -1,0 +1,1 @@
+{ "parent": "minecraft:item/generated", "textures": { "layer0": "botania_tea:item/red_tea_essence_bucket" } }

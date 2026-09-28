@@ -1,0 +1,53 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "tea_art:jasmine_flower_tea_leaf"
+    },
+    {
+      "tag": "botania:petals/magenta"
+    },
+    {
+      "tag": "botania:petals/magenta"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "botania_tea:ascended_tea_liquor_bottle"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    }
+  ],
+  "output": {
+    "item": "botania_tea:butterfly_orchid"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

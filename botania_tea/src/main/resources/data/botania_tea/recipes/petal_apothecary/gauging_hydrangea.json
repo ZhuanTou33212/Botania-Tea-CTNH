@@ -1,0 +1,26 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "tea_art:jasmine_flower_tea_leaf"
+    },
+    {
+      "tag": "botania:petals/light_blue"
+    },
+    {
+      "tag": "botania:petals/light_blue"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "minecraft:comparator"
+    }
+  ],
+  "output": {
+    "item": "botania_tea:gauging_hydrangea"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

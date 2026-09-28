@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "botania_tea:floating_flower",
+  "ingredients": [
+    {
+      "tag": "botania:floating_flowers"
+    },
+    {
+      "item": "botania_tea:six_harmony_chrysanthemum"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:floating_six_harmony_chrysanthemum"
+  }
+}

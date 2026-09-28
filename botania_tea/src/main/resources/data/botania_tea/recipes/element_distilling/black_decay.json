@@ -1,0 +1,1 @@
+{"type":"botania_tea:element_distilling","mode":"element","fluid":{"fluid":"botania_tea:black_tea_essence","amount":250},"leaf":{"item":"tea_art:black_tea_leaf"},"catalyst":{"item":"botania:mana_powder"},"result":{"item":"botania_tea:decay_crystal","count":4},"duration":100}

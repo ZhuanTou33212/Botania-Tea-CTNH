@@ -1,0 +1,23 @@
+{
+  "name": "茶汤效果",
+  "icon": "tea_art:tea_cup",
+  "category": "tea_art:brewing",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "茶汤与饮用",
+      "text": "每份茶汤为 250mB。饮用任意一种茶汤后，茶杯会返还。$(br2)不同的茶汤会带来不同的状态效果，下面按茶类列出。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "六大茶类",
+      "text": "$(li)绿茶：急迫 II 60 秒 + 夜视 5 分钟。$(li)白茶：急迫 I 60 秒 + 夜视 5 分钟。$(li)黄茶：急迫 II 3 分钟 + 速度 II 3 分钟。$(li)红茶：急迫 II 3 分钟 + 速度 II 3 分钟。$(li)黑茶：抗性提升 II 3 分钟 + 伤害吸收 I 3 分钟 + 生命恢复 I 10 秒。$(li)乌龙茶：急迫 II 5 分钟 + 速度 II 5 分钟。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "花茶",
+      "text": "$(li)茉莉花茶：生命恢复 I 20 秒 + 夜视 5 分钟。$(li)栀子花茶：急迫 I 3 分钟 + 生命恢复 I 20 秒。"
+    }
+  ]
+}

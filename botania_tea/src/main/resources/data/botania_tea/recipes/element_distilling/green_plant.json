@@ -1,0 +1,1 @@
+{"type":"botania_tea:element_distilling","mode":"element","fluid":{"fluid":"botania_tea:green_tea_essence","amount":250},"leaf":{"item":"tea_art:green_tea_leaf"},"catalyst":{"item":"botania:mana_powder"},"result":{"item":"botania_tea:plant_crystal","count":4},"duration":100}

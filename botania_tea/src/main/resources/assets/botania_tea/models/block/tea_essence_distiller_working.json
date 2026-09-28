@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "botania_tea:block/tea_essence_distiller_working",
+    "top": "botania_tea:block/tea_essence_distiller_top",
+    "bottom": "botania_tea:block/tea_essence_distiller_top"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tea Table Brewing",
+  "icon": "tea_art:tea_table",
+  "category": "tea_art:brewing",
+  "sortnum": 0,
+  "turnin": "tea_art:brew_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Brewing happens at the Tea Table. Put finished tea leaves in the leaf slot, a tea cup in the cup slot, a water bucket in the water slot (1 bucket = 1000 mB, enough for 4 brews), and any burnable item in the fuel slot.$(br2)The brew takes exactly as long as that fuel's burn time, and the progress bar shows it; each brew uses 250 mB of water, 1 finished leaf and 1 tea cup, and yields one infusion plus one tea residue. The table stops when the residue slot holds 64; take the residue out to continue. Drinking an infusion returns the cup.$(br2)With an empty cup slot, an empty bucket in the water slot and at least 1000 mB of water, one run yields 4 liquor buckets. Brewing will not start without leaves, water or fuel."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:tea_cup",
+      "title": "Task",
+      "text": "Obtaining any base infusion (green, white, yellow, red, dark or oolong) completes the “A Cup of Tea” advancement; flower teas do not count."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{ "render_type": "minecraft:cutout", "parent": "minecraft:block/cross", "textures": { "cross": "tea_art:block/jasmine_bush_stage2" } }

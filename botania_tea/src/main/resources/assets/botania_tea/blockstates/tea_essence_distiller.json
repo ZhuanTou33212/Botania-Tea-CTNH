@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "working=false": { "model": "botania_tea:block/tea_essence_distiller" },
+    "working=true": { "model": "botania_tea:block/tea_essence_distiller_working" }
+  }
+}

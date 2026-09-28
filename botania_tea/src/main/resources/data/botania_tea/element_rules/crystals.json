@@ -1,0 +1,12 @@
+[
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:gems/diamond"},"categories":["crystal_material"],"fallback_vector":{"crystal":"1"},"mode":"fallback_if_no_recipe","reason":"Diamond crystal baseline"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:gems/emerald"},"categories":["crystal_material"],"fallback_vector":{"crystal":"1"},"mode":"fallback_if_no_recipe","reason":"Emerald crystal baseline"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:gems/quartz"},"categories":["crystal_material"],"fallback_vector":{"crystal":"1"},"mode":"fallback_if_no_recipe","reason":"Quartz crystal baseline"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:gems/amethyst"},"categories":["crystal_material"],"fallback_vector":{"crystal":"1"},"mode":"fallback_if_no_recipe","reason":"Amethyst crystal baseline"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:gems/lapis"},"categories":["crystal_material"],"fallback_vector":{"crystal":"1"},"mode":"fallback_if_no_recipe","reason":"Lapis crystal baseline"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:gems/prismarine"},"categories":["crystal_material"],"fallback_vector":{"crystal":"1"},"mode":"fallback_if_no_recipe","reason":"Prismarine crystal baseline"},
+  {"schema_version":1,"priority":110,"selector":{"item_tag":"forge:gems"},"categories":["crystal_material"],"fallback_vector":{"crystal":"1"},"mode":"fallback_if_no_recipe","reason":"Generic gem fallback after specific gem rules"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:storage_blocks/diamond"},"categories":["crystal_material"],"fallback_vector":{"crystal":"81"},"mode":"fallback_if_no_recipe","reason":"Compressed diamond baseline"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:storage_blocks/emerald"},"categories":["crystal_material"],"fallback_vector":{"crystal":"81"},"mode":"fallback_if_no_recipe","reason":"Compressed emerald baseline"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:storage_blocks/quartz"},"categories":["crystal_material"],"fallback_vector":{"crystal":"81"},"mode":"fallback_if_no_recipe","reason":"Compressed quartz baseline"}
+]

@@ -1,0 +1,32 @@
+{
+  "parent": "botania_tea:tea_garden/victory",
+  "display": {
+    "icon": {
+      "item": "botania_tea:shanhai_seal"
+    },
+    "title": {
+      "translate": "advancements.botania_tea.seal.title"
+    },
+    "description": {
+      "translate": "advancements.botania_tea.seal.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_seal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania_tea:shanhai_seal"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

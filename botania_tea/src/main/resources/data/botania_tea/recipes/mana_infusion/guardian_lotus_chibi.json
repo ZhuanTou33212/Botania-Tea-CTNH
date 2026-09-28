@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania_tea:flower_shrinking",
+  "input": {
+    "item": "botania_tea:guardian_lotus"
+  },
+  "mana": 2500,
+  "output": {
+    "item": "botania_tea:guardian_lotus_chibi"
+  }
+}

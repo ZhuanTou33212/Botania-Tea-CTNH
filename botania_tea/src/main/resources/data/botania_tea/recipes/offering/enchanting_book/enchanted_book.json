@@ -1,0 +1,18 @@
+{
+  "type": "botania_tea:offering_crafting",
+  "substrate": {
+    "ingredient": {
+      "item": "minecraft:book"
+    },
+    "count": 1
+  },
+  "elements": {},
+  "enchantable": true,
+  "ascended_crystals": 0,
+  "mana": 1000,
+  "duration": 200,
+  "result": {
+    "item": "minecraft:enchanted_book",
+    "count": 1
+  }
+}

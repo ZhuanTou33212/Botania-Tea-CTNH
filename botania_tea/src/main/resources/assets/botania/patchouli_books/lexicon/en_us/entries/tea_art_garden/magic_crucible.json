@@ -1,0 +1,23 @@
+{
+  "name": "Magic Crucible",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:magic_crucible",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The crucible refines essence without a GUI. Item crafting and enchanting no longer run here. Supply essence fluid, bottles or buckets. Empty-hand right-click retrieves products and returned containers. Automation cannot extract raw inputs."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Each 1000 mB batch produces ALL crystal types mapped to that essence, one each, using the element distilling fluid-to-crystal mappings, without needing leaves or mana powder. A batch takes 100 ticks and 1000 nearby pool mana. Full outputs prevent essence and mana consumption."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Capacity: 8000 mB of one essence. Pool range: 6 blocks horizontally, 2 vertically. Bottles supply 250 mB and return glass bottles; buckets supply 1000 mB and return buckets. Use the offering ritual for item crafting."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:magic_crucible"
+    }
+  ]
+}

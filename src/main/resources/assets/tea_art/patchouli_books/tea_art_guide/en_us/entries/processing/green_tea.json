@@ -1,0 +1,19 @@
+{
+  "name": "Green Tea: Fixation",
+  "icon": "tea_art:green_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 0,
+  "turnin": "tea_art:make_green_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Route: fresh leaf -> pan fixation -> rolling table -> sieve-rack drying.$(br2)Green tea depends on quick fixation to keep the fresh green character. Each step is stored on the tea leaf NBT, and drying finishes it as green tea."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:green_tea_leaf",
+      "title": "Task",
+      "text": "Obtaining green tea completes the “First Green Tea” advancement."
+    }
+  ]
+}

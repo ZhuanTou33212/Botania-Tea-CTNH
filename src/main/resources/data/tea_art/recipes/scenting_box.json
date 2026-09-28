@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PJP",
+    "GCG",
+    "PJP"
+  ],
+  "key": {
+    "P": {
+      "item": "tea_art:tea_planks"
+    },
+    "J": {
+      "item": "tea_art:jasmine_flower"
+    },
+    "G": {
+      "item": "tea_art:gardenia_flower"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "tea_art:scenting_box"
+  }
+}

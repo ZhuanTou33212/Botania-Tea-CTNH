@@ -1,0 +1,15 @@
+{
+  "name": "guardian lotus",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:guardian_lotus",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A free 11x11 horizontal field prevents players picking up ground items and protects those items from TNT. It does not draw pool mana or disable every automated collector."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/guardian_lotus"
+    }
+  ]
+}

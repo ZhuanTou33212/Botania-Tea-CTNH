@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "level=0": { "model": "botania_tea:block/tea_essence" },
+    "level=1": { "model": "botania_tea:block/tea_essence" },
+    "level=2": { "model": "botania_tea:block/tea_essence" },
+    "level=3": { "model": "botania_tea:block/tea_essence" },
+    "level=4": { "model": "botania_tea:block/tea_essence" },
+    "level=5": { "model": "botania_tea:block/tea_essence" },
+    "level=6": { "model": "botania_tea:block/tea_essence" },
+    "level=7": { "model": "botania_tea:block/tea_essence" },
+    "level=8": { "model": "botania_tea:block/tea_essence" },
+    "level=9": { "model": "botania_tea:block/tea_essence" },
+    "level=10": { "model": "botania_tea:block/tea_essence" },
+    "level=11": { "model": "botania_tea:block/tea_essence" },
+    "level=12": { "model": "botania_tea:block/tea_essence" },
+    "level=13": { "model": "botania_tea:block/tea_essence" },
+    "level=14": { "model": "botania_tea:block/tea_essence" },
+    "level=15": { "model": "botania_tea:block/tea_essence" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "异构茶花",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:heteromorphic_camellia",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "右键源质瓶选择茶类。消耗250mB对应源质与默认5000魔力，将范围内茶树作物转换为对应成品茶作物，保留生长阶段并显示粒子。$(br2)不是树苗，不生成大树；八阶段有不同生长图。成熟右键采1片对应成品茶叶，回到第0阶段。同类作物不会重复付费。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/heteromorphic_camellia"
+    }
+  ]
+}

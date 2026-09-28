@@ -1,0 +1,16 @@
+[
+  {"schema_version":1,"priority":110,"selector":{"item_tag":"forge:crops"},"categories":["plant_material","life_material"],"fallback_vector":{"plant":"1","life":"1"},"mode":"fallback_if_no_recipe","reason":"Crop-family fallback"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"minecraft:fishes"},"categories":["water_material","beast_material"],"fallback_vector":{"water":"1","beast":"1"},"mode":"fallback_if_no_recipe","reason":"Fish material fallback"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:eggs"},"categories":["beast_material"],"fallback_vector":{"beast":"1"},"mode":"fallback_if_no_recipe","reason":"Egg material fallback"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:leather"},"categories":["beast_material"],"fallback_vector":{"beast":"1"},"mode":"fallback_if_no_recipe","reason":"Leather material fallback"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:bones"},"categories":["beast_material"],"fallback_vector":{"beast":"1"},"mode":"fallback_if_no_recipe","reason":"Bone material fallback"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"minecraft:coals"},"categories":["fire_material"],"fallback_vector":{"fire":"1"},"mode":"fallback_if_no_recipe","reason":"Coal fuel baseline"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:dusts/redstone"},"categories":["mechanism_material"],"fallback_vector":{"mechanism":"1"},"mode":"fallback_if_no_recipe","reason":"Redstone mechanism baseline"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"forge:dusts/glowstone"},"categories":["magic_material"],"fallback_vector":{"magic":"1"},"mode":"fallback_if_no_recipe","reason":"Glowstone magical baseline"},
+  {"schema_version":1,"priority":90,"selector":{"item_tag":"botania:runes"},"categories":["magic_material"],"fallback_vector":{"magic":"1"},"mode":"fallback_if_no_recipe","reason":"Botania rune magical baseline"},
+  {"schema_version":1,"priority":90,"selector":{"item":"minecraft:soul_sand"},"categories":["soul_material"],"fallback_vector":{"soul":"1"},"mode":"fallback_if_no_recipe","reason":"Soul sand baseline"},
+  {"schema_version":1,"priority":90,"selector":{"item":"minecraft:soul_soil"},"categories":["soul_material"],"fallback_vector":{"soul":"1"},"mode":"fallback_if_no_recipe","reason":"Soul soil baseline"},
+  {"schema_version":1,"priority":90,"selector":{"item":"minecraft:soul_torch"},"categories":["soul_material"],"fallback_vector":{"soul":"1"},"mode":"fallback_if_no_recipe","reason":"Soul torch baseline"},
+  {"schema_version":1,"priority":90,"selector":{"item":"minecraft:soul_lantern"},"categories":["soul_material"],"fallback_vector":{"soul":"1"},"mode":"fallback_if_no_recipe","reason":"Soul lantern baseline"},
+  {"schema_version":1,"priority":90,"selector":{"item":"botania:livingrock"},"categories":["stone_material"],"fallback_vector":{"stone":"1"},"mode":"fallback_if_no_recipe","reason":"Botania livingrock stone baseline"}
+]

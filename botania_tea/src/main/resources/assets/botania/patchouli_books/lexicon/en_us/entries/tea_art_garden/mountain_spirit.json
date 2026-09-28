@@ -1,0 +1,15 @@
+{
+  "name": "Ritual and Mountain Spirit",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:mountain_invitation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Eight ritual slots require one each of white, green, yellow, red, oolong and black essence bottles, an ascended bottle and an invitation. Player confirmation, clear space and no nearby active boss are required. Success returns seven bottles. Three phases warn for 30/25/40 ticks: root line, five moving blades, then ring shockwave with a safe center. Defaults: 600 health, 8 armor, 10 base damage."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Normal defeat drops one heartwood, 2-4 porcelain shards and one memory. First victory for the summoning player adds an ancient seed, currently a collectible rather than a plantable crop. Defeated phantoms use normal rewards; linked-player death removes them without loot. Offline/cross-dimensional owners suspend the phantom, then remove it after 600 ticks."
+    }
+  ]
+}

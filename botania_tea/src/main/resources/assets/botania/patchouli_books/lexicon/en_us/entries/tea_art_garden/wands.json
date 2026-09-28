@@ -1,0 +1,40 @@
+{
+  "name": "Five Wands",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:shadow_shift_wand",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Shadow Shift creates a two-way portal between one block ahead and the crosshair direction up to 30 blocks away, without requiring a block target. The portals last 30 seconds, use a 64 tick cooldown and cost 200 mana. Aftertaste Guard provides up to 40 extra damage absorption: tap to affect the crosshair target or hold for at least 10 ticks to affect yourself. It uses a 3000 tick cooldown, costs 1000 mana, and never heals. Ember Beam is a held continuous beam costing 20 mana every 5 ticks. Branch Link costs 300 mana to form a link and transfers 50% of the damage once without recursion. Dream Bind roots a target for 100 ticks at 250 mana while leaving turning and attacking available."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:ritual_substrate"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:shadow_shift_wand",
+      "text": "Space, sense, air: 16 crystals each + 1 ritual substrate. Offering ritual: 10000 mana, 400 ticks."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:aftertaste_guard_wand",
+      "text": "Protection, life, order: 16 crystals each + 1 ritual substrate. Offering ritual: 10000 mana, 400 ticks."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:ember_beam_wand",
+      "text": "Fire, motion, sense: 16 crystals each + 1 ritual substrate. Offering ritual: 10000 mana, 400 ticks."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:branch_link_wand",
+      "text": "Plant, life, magic: 16 crystals each + 1 ritual substrate. Offering ritual: 10000 mana, 400 ticks."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:dream_bind_wand",
+      "text": "Order, space, sense: 16 crystals each + 1 ritual substrate. Offering ritual: 10000 mana, 400 ticks."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "tea_art:block/withering_tray",
+    "bamboo": "minecraft:block/bamboo_block",
+    "planks": "tea_art:block/bamboo_planks",
+    "mat": "tea_art:block/withering_tray",
+    "leaf": "tea_art:block/tea_leaves"
+  },
+  "elements": [
+    {
+      "from": [1, 3, 1],
+      "to": [15, 4, 15],
+      "faces": {
+        "down": { "texture": "#planks" },
+        "up": { "texture": "#mat" },
+        "north": { "texture": "#planks" },
+        "south": { "texture": "#planks" },
+        "west": { "texture": "#planks" },
+        "east": { "texture": "#planks" }
+      }
+    },
+    {
+      "from": [1, 4, 1],
+      "to": [15, 6, 3],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [1, 4, 13],
+      "to": [15, 6, 15],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [1, 4, 3],
+      "to": [3, 6, 13],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [13, 4, 3],
+      "to": [15, 6, 13],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [4, 4, 4],
+      "to": [12, 5, 12],
+      "faces": {
+        "down": { "texture": "#leaf" },
+        "up": { "texture": "#leaf" },
+        "north": { "texture": "#leaf" },
+        "south": { "texture": "#leaf" },
+        "west": { "texture": "#leaf" },
+        "east": { "texture": "#leaf" }
+      }
+    },
+    {
+      "from": [2, 0, 2],
+      "to": [4, 3, 4],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [12, 0, 2],
+      "to": [14, 3, 4],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [2, 0, 12],
+      "to": [4, 3, 14],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [12, 0, 12],
+      "to": [14, 3, 14],
+      "faces": {
+        "down": { "texture": "#bamboo" },
+        "up": { "texture": "#bamboo" },
+        "north": { "texture": "#bamboo" },
+        "south": { "texture": "#bamboo" },
+        "west": { "texture": "#bamboo" },
+        "east": { "texture": "#bamboo" }
+      }
+    }
+  ]
+}

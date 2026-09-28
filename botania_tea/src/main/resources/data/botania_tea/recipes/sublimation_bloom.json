@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PMP", "RFR", " P "],
+  "key": {
+    "P": { "item": "botania:pink_petal" },
+    "M": { "item": "botania:mana_diamond" },
+    "R": { "item": "botania:rune_mana" },
+    "F": { "item": "botania_tea:tea_essence_stillbloom" }
+  },
+  "result": { "item": "botania_tea:sublimation_bloom" }
+}

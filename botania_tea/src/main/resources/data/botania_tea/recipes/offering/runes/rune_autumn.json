@@ -1,0 +1,14 @@
+{
+ "type": "botania_tea:offering_crafting",
+ "elements": {
+  "botania_tea:decay_crystal": 12,
+  "botania_tea:earth_crystal": 8
+ },
+ "ascended_crystals": 0,
+ "mana": 5500,
+ "duration": 400,
+ "result": {
+  "item": "botania:rune_autumn",
+  "count": 1
+ }
+}

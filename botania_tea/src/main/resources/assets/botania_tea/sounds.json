@@ -1,0 +1,38 @@
+{
+  "seal_applied": {
+    "subtitle": "subtitles.botania_tea.seal_applied",
+    "sounds": [
+      {
+        "name": "minecraft:block.enchantment_table.use",
+        "type": "event"
+      }
+    ]
+  },
+  "ritual_summon": {
+    "subtitle": "subtitles.botania_tea.ritual_summon",
+    "sounds": [
+      {
+        "name": "minecraft:block.note_block.chime",
+        "type": "event"
+      }
+    ]
+  },
+  "boss_windup": {
+    "subtitle": "subtitles.botania_tea.boss_windup",
+    "sounds": [
+      {
+        "name": "minecraft:entity.evoker.prepare_summon",
+        "type": "event"
+      }
+    ]
+  },
+  "boss_defeat": {
+    "subtitle": "subtitles.botania_tea.boss_defeat",
+    "sounds": [
+      {
+        "name": "minecraft:entity.iron_golem.death",
+        "type": "event"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Oolong: Greening and Drying",
+  "icon": "tea_art:oolong_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 5,
+  "turnin": "tea_art:make_oolong_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Route: fresh leaf -> withering tray -> rolling-table greening -> fermentation-vat fixation -> rolling table -> sieve-rack drying.$(br2)Oolong sits between fresh fragrance and body. Roll once more after the vat, then dry to finish it as oolong tea."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:oolong_tea_leaf",
+      "title": "Task",
+      "text": "Obtaining oolong completes the Half-Fermented Oolong advancement."
+    }
+  ]
+}

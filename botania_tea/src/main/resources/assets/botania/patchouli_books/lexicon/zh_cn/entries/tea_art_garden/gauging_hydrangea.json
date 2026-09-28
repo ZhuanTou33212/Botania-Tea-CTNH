@@ -1,0 +1,15 @@
+{
+  "name": "听雨绣球",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:gauging_hydrangea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "默认每10tick检查绑定容器。/botaniatea measure x y z fluid less threshold 设置物品/流体、严格小于/大于阈值，等值输出0。拿液体容器右键选液不消耗。满足条件输出15。 无需魔力，不会从绑定池吸魔。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/gauging_hydrangea"
+    }
+  ]
+}

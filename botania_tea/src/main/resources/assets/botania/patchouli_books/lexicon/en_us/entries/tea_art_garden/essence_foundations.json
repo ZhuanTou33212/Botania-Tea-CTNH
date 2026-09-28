@@ -1,0 +1,54 @@
+{
+  "name": "Essence Foundations",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:tea_essence_stillbloom",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "First Finished Tea",
+      "text": "Sea-Mountain Tea Garden uses Botania's mana system. First follow the Tea Art process to make finished tea, then use the essence route to establish your first magical flowers; essence is not a second generic power source.$(br2)Tea blocks and tea residue belong to core Tea Art; magical flowers, finished-tea crops and tools belong to this addon."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Essence and Ascended Liquor",
+      "text": "The Tea Essence Stillbloom is used for the tea-essence route, and the Sublimation Bloom for the ascended-liquor route. Supply mana to the working flowers and prepare the matching inputs; the finished fluid is stored inside the flower.$(br2)Right-click either flower with an empty glass bottle to try bottling; if there is less than one bottle's worth, you get nothing. Ascended liquor can be filled into an ascended tea liquor bucket as well as bottles; compatible buckets and fluid pipes can take fluid through a fluid interface."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Apothecary Feeding",
+      "text": "The fourteen new flowers use petal apothecary recipes. First fill the apothecary with water, throw in the recipe ingredients one by one, and finally add a Botania-accepted seed. Each flower entry shows its current real recipe at the end.$(br2)The Water Supply Lily's bucket is an extra ingredient: add water first, then the second bucket. The Butterfly Orchid needs bottled ascended liquor; containers are returned when the flower forms."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Mana and Item Binding",
+      "text": "Mana binding with the Wand of the Forest follows Botania rules. Flowers that need a designated item container also need a separate item binding: sneak-right-click the container to record its position, then sneak-right-click the flower.$(br2)Target dimension, chunk loading, input types and output space can all affect work. The Butterfly Orchid only needs redstone, not an input pool. The Water Supply Lily, Gauging Hydrangea, Guardian Lotus and Night Epiphyllum do not consume mana."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "When It Stops Working",
+      "text": "First check whether mana is sufficient, inputs are correct, the target is loaded, and there is room for outputs. Full containers and invalid recipes do not become valid because of the seal.$(br2)This guide describes default values; server settings or datapacks may change suggested values. Flowers that need mana still pay per work; free flowers stay free after sealing."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_essence_stillbloom"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:sublimation_bloom"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_essence_distiller"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:water_spark"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Water Spark",
+      "text": "Water Sparks are used in pairs. With a Wand of the Forest, left-click the supply side and right-click the receiving side to link them within 8 blocks. Every 20 ticks they move 50 mB of tea essence or ascended liquor between fluid handlers adjacent to the two sparks."
+    }
+  ]
+}

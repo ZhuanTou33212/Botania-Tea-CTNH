@@ -1,0 +1,15 @@
+{
+  "name": "chunk dandelion",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:chunk_dandelion",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Prepays mana to keep its own chunk loaded. Running out or removal releases only this flower's ticket."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/chunk_dandelion"
+    }
+  ]
+}

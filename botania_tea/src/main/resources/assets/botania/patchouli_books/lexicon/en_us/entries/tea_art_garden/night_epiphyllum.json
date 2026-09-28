@@ -1,0 +1,15 @@
+{
+  "name": "night epiphyllum",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:night_epiphyllum",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Emits light 15 and suppresses natural hostile spawns in its 15x15 horizontal area without mana. It does not draw from pools or block commands, spawners or other spawn reasons."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/night_epiphyllum"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "tea_art:green_tea_block"
+    },
+    {
+      "item": "tea_art:black_tea_block"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:tea_ritual_table"
+  }
+}

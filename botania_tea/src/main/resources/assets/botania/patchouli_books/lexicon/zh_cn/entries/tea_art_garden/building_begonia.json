@@ -1,0 +1,15 @@
+{
+  "name": "折枝海棠",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:building_begonia",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "手持海棠Shift+右键绑定容器，在其水平3×3内种植（上下容差1格）。空手右键花开启透明选区；右键方块表面选点，红石供电启动，断电暂停、来电续建。Shift+右键切单块、线条、平台；后两者需两点，平台须同高。$(br2)范围水平±8、垂直±3格。成功放置扣20魔力；不覆盖已有块或花，完成停止预览。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/building_begonia"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:tools",
+    {"id":"create:mechanical_press","required":false},
+    {"id":"create:mechanical_mixer","required":false},
+    {"id":"create:mechanical_saw","required":false},
+    {"id":"create:mechanical_drill","required":false},
+    {"id":"create:mechanical_harvester","required":false},
+    {"id":"create:mechanical_plough","required":false},
+    {"id":"create:mechanical_roller","required":false},
+    {"id":"create:mechanical_arm","required":false},
+    {"id":"create:mechanical_crafter","required":false},
+    {"id":"create:mechanical_pump","required":false},
+    {"id":"create:mechanical_bearing","required":false},
+    {"id":"create:encased_fan","required":false},
+    {"id":"create:millstone","required":false},
+    {"id":"create:crushing_wheel","required":false},
+    {"id":"create:deployer","required":false},
+    {"id":"create:spout","required":false},
+    {"id":"create:basin","required":false},
+    {"id":"create:depot","required":false},
+    {"id":"create:water_wheel","required":false},
+    {"id":"create:large_water_wheel","required":false},
+    {"id":"create:windmill_bearing","required":false},
+    {"id":"create:steam_engine","required":false},
+    {"id":"create:flywheel","required":false},
+    {"id":"create:mechanical_piston","required":false},
+    {"id":"create:sticky_mechanical_piston","required":false}
+  ]
+}

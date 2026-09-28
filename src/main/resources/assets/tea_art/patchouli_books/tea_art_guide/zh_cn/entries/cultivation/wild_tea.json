@@ -1,0 +1,18 @@
+{
+  "name": "野生茶树",
+  "icon": "tea_art:tea_seed",
+  "category": "tea_art:cultivation",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "茶树更接近低矮常绿灌木，而不是一根单独的作物苗。成熟植株有深绿、厚实的老叶，枝梢上有浅黄绿色嫩芽。$(br2)新的茶树贴图会用深绿叶层托起嫩芽，让野外茶丛更像真实茶园里的灌木。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:tea_leaf",
+      "title": "采摘鲜叶",
+      "text": "成熟野生茶树可采得 2–4 片鲜叶，并有几率掉落茶树树苗；茶籽需从种植的茶树作物收获或合成。鲜叶本身不依赖 NBT 区分品类，真正的差异来自后续工序：杀青、萎凋、揉捻、发酵、闷黄、渥堆和干燥。"
+    }
+  ]
+}

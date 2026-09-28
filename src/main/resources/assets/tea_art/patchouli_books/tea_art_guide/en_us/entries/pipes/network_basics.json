@@ -1,0 +1,18 @@
+{
+  "name": "Pipe Network Basics",
+  "icon": "tea_art:bamboo_pipe",
+  "category": "tea_art:pipes",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Networks",
+      "text": "Bamboo pipes try to move 1 item every $(l)5 ticks$(/l). Color is the channel: only pipes of the same color join the same network. A network searches at most 32 pipes; the controller is the pipe with the smallest Y, then X, then Z."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Default Sources",
+      "text": "Plain pipes do not actively drain chests. Without an output port, they extract only from Tea Art work blocks such as tea tables, processors, scenting boxes, sieves, stoves, fermentation vats and pile fermentation basins."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Red Tea: Rolling and Fermentation",
+  "icon": "tea_art:red_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 3,
+  "turnin": "tea_art:make_red_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Route: fresh leaf -> withering tray -> rolling table -> fermentation vat -> sieve-rack drying.$(br2)Red tea needs fuller fermentation. Dry directly after the vat to finish it as red tea."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:red_tea_leaf",
+      "title": "Task",
+      "text": "Obtaining red tea completes the “First Red Infusion” advancement."
+    }
+  ]
+}

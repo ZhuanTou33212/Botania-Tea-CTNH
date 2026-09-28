@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" G ", "PFP", " M "],
+  "key": {
+    "G": { "item": "tea_art:green_tea_leaf" },
+    "P": { "item": "botania:lime_petal" },
+    "F": { "item": "botania:hopperhock" },
+    "M": { "item": "botania:mana_powder" }
+  },
+  "result": { "item": "botania_tea:tea_essence_stillbloom" }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "红石端口",
+  "icon": "tea_art:bamboo_pipe_redstone_port",
+  "category": "tea_art:pipes",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe_redstone_port",
+      "title": "线路开关",
+      "text": "红石端口只控制它所在的这一条线路。断开时，物品不会穿过端口的受控方向，但相邻管道本身不会被拆开，外观也仍保持连接。$(br2)空手右键端口可切换普通/反相模式。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "普通与反相",
+      "text": "普通模式：有红石信号时关闭。$(br)反相模式：无红石信号时关闭。$(br2)这适合做分流器：用红石端口隔开某一路输出，让同一频道在不同时间向不同机器供料。"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "projectile bellflower",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:projectile_bellflower",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Captures arrows and compatible fireballs, yielding ceil(500*speed squared) once per projectile. Successful capture damages nearby non-player creatures."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/projectile_bellflower"
+    }
+  ]
+}

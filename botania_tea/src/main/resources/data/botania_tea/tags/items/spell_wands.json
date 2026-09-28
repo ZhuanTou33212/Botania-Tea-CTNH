@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "botania_tea:shadow_shift_wand",
+    "botania_tea:aftertaste_guard_wand",
+    "botania_tea:ember_beam_wand",
+    "botania_tea:branch_link_wand",
+    "botania_tea:dream_bind_wand"
+  ]
+}

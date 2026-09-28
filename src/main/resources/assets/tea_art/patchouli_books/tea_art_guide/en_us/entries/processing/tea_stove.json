@@ -1,0 +1,18 @@
+{
+  "name": "Tea Stove",
+  "icon": "tea_art:tea_stove",
+  "category": "tea_art:processing",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Using the Tea Stove",
+      "text": "The Tea Stove has 4 slots. After 1 item is placed in each slot, the stove processes them using campfire recipes, taking 600 ticks (30 seconds).$(br2)It can process foods and tea leaves; placing processable items needs no fuel because the stove has its own heat source. Use the GUI to insert items and watch the progress."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Output",
+      "text": "When processing finishes, the products are automatically sent into the neighbouring bamboo pipe network.$(br2)If they cannot be sent, the products pop out above the Tea Stove."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.qianxin.botaniatea.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.tea_art.refmap.json",
+  "mixins": ["TeaApothecaryMixin", "RootedMovementMixin", "RootedPlayerMovementMixin"],
+  "injectors": {"defaultRequire": 1}
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "tea_art:block/tea_log" },
+    "axis=z": { "model": "tea_art:block/tea_log", "x": 90 },
+    "axis=x": { "model": "tea_art:block/tea_log", "x": 90, "y": 90 }
+  }
+}

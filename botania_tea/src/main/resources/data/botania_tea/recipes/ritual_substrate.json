@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  M", "L  ", "L  "],
+  "key": {
+    "L": {"item": "botania:livingwood_twig"},
+    "M": {"item": "botania:manasteel_ingot"}
+  },
+  "result": {"item": "botania_tea:ritual_substrate", "count": 1}
+}

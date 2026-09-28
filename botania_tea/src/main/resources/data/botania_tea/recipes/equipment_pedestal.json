@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "botania:livingwood_twig"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:equipment_pedestal"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "tea_art:green_tea_leaf"
+    },
+    {
+      "tag": "botania:petals/green"
+    },
+    {
+      "tag": "botania:petals/green"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "tea_art:tea_seed"
+    },
+    {
+      "item": "botania:rune_spring"
+    }
+  ],
+  "output": {
+    "item": "botania_tea:heteromorphic_camellia"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

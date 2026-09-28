@@ -1,0 +1,19 @@
+{
+  "name": "乌龙茶：做青与干燥",
+  "icon": "tea_art:oolong_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 5,
+  "turnin": "tea_art:make_oolong_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "路线：鲜叶 -> 萎凋盘 -> 揉茶台做青 -> 发酵缸杀青 -> 揉茶台揉捻 -> 茶篦干燥。$(br2)乌龙茶介于清香与醇厚之间。发酵缸后再揉捻一次，最后干燥会转成乌龙茶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:oolong_tea_leaf",
+      "title": "任务",
+      "text": "获得乌龙茶会完成“半盏乌龙”成就。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tea_art:tea_seed"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "tea_art:tea_crop",
+          "properties": {
+            "age": "6"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tea_art:tea_leaf"
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "tea_art:tea_crop",
+          "properties": {
+            "age": "6"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tea_art:tea_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5714286
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

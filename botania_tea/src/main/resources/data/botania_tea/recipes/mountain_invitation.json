@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "tea_art:white_tea_leaf"
+    },
+    {
+      "item": "tea_art:green_tea_leaf"
+    },
+    {
+      "item": "tea_art:yellow_tea_leaf"
+    },
+    {
+      "item": "tea_art:red_tea_leaf"
+    },
+    {
+      "item": "tea_art:oolong_tea_leaf"
+    },
+    {
+      "item": "tea_art:black_tea_leaf"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:mountain_invitation"
+  }
+}

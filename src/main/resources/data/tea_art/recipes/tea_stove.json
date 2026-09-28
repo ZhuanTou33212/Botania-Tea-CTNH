@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CMC",
+    "CFC",
+    "SCS"
+  ],
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "M": { "item": "minecraft:campfire" },
+    "F": { "item": "minecraft:furnace" },
+    "S": { "item": "minecraft:stone" }
+  },
+  "result": {
+    "item": "tea_art:tea_stove"
+  }
+}

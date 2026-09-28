@@ -1,0 +1,37 @@
+{
+  "parent": "botania_tea:tea_garden/root",
+  "display": {
+    "icon": {
+      "item": "botania_tea:mending_hibiscus"
+    },
+    "title": {
+      "translate": "block.botania_tea.mending_hibiscus"
+    },
+    "description": {
+      "translate": "advancements.botania_tea.flower.description",
+      "with": [
+        {
+          "translate": "block.botania_tea.mending_hibiscus"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania_tea:mending_hibiscus"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

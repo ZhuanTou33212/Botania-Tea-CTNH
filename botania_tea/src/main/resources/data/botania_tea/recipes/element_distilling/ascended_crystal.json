@@ -1,0 +1,1 @@
+{"type":"botania_tea:element_distilling","mode":"ascended","fluid":{"fluid":"botania_tea:ascended_tea_liquor","amount":250},"catalyst":{"item":"botania:mana_powder"},"result":{"item":"botania_tea:ascended_crystal","count":1},"duration":200}

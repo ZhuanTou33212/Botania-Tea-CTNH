@@ -1,0 +1,40 @@
+{
+  "name": "五种法杖",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:shadow_shift_wand",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "换影法杖在玩家前方1格与准星方向最远30格处各生成一道持续30秒的双向传送门，不要求准星处存在方块，冷却64 tick，消耗200魔力。回甘法杖最多提供40点额外承伤：短按对准星目标使用，长按至少10 tick则对自身使用，冷却3000 tick，消耗1000魔力；它不会恢复生命。余烬法杖为持续持有型火焰光束，每5 tick消耗20魔力。连枝法杖成链消耗300魔力，只传递50%伤害且阻止递归。沉梦法杖禁锢目标100 tick，消耗250魔力，但目标仍可转向和攻击。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:ritual_substrate"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:shadow_shift_wand",
+      "text": "换影：空间、感知、气流源晶各16颗，加1个法术胚材，在魔力合成法阵中消耗10000魔力，400 tick完成。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:aftertaste_guard_wand",
+      "text": "回甘：守护、生机、秩序源晶各16颗，加1个法术胚材，在魔力合成法阵中消耗10000魔力，400 tick完成。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:ember_beam_wand",
+      "text": "余烬：火焰、动力、感知源晶各16颗，加1个法术胚材，在魔力合成法阵中消耗10000魔力，400 tick完成。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:branch_link_wand",
+      "text": "连枝：草木、生机、魔法源晶各16颗，加1个法术胚材，在魔力合成法阵中消耗10000魔力，400 tick完成。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:dream_bind_wand",
+      "text": "沉梦：秩序、空间、感知源晶各16颗，加1个法术胚材，在魔力合成法阵中消耗10000魔力，400 tick完成。"
+    }
+  ]
+}

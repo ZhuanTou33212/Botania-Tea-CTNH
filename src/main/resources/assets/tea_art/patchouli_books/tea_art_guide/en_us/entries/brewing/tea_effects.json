@@ -1,0 +1,23 @@
+{
+  "name": "Tea Effects",
+  "icon": "tea_art:tea_cup",
+  "category": "tea_art:brewing",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Drinking Tea",
+      "text": "Each infusion is 250 mB. Drinking any infusion returns the tea cup.$(br2)Different infusions grant different status effects, listed by tea type below."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Six Base Teas",
+      "text": "$(li)Green Tea: Haste II for 60 seconds + Night Vision for 5 minutes.$(li)White Tea: Haste I for 60 seconds + Night Vision for 5 minutes.$(li)Yellow Tea: Haste II for 3 minutes + Speed II for 3 minutes.$(li)Red Tea: Haste II for 3 minutes + Speed II for 3 minutes.$(li)Dark Tea: Resistance II for 3 minutes + Absorption I for 3 minutes + Regeneration I for 10 seconds.$(li)Oolong Tea: Haste II for 5 minutes + Speed II for 5 minutes."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Flower Teas",
+      "text": "$(li)Jasmine Flower Tea: Regeneration I for 20 seconds + Night Vision for 5 minutes.$(li)Gardenia Flower Tea: Haste I for 3 minutes + Regeneration I for 20 seconds."
+    }
+  ]
+}

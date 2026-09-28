@@ -1,0 +1,28 @@
+{
+  "name": "Scenting Box and Flower Tea",
+  "icon": "tea_art:scenting_box",
+  "category": "tea_art:processing",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "The Scenting Box",
+      "text": "The Scenting Box has 4 slots: a tea slot, a flower slot, a fuel slot and an output slot. It needs fuel to run, and each batch takes 400 ticks (20 seconds).$(br2)The tea slot accepts only scentable finished tea leaves; the flower slot accepts only Jasmine Flower or Gardenia Flower."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Scented Products",
+      "text": "The result is the matching scented tea: tea leaves plus jasmine give Jasmine Scented Tea Leaves, and tea leaves plus gardenia give Gardenia Scented Tea Leaves.$(br2)Brew a scented leaf through the normal process to get Jasmine Flower Tea or Gardenia Flower Tea."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Manual Use and Automation",
+      "text": "Manual use: insert tea leaves from above, and flowers plus fuel from below.$(br2)Automation: tea leaves enter through the top face, fuel through the bottom face, and flowers through the upper half; the output slot can be extracted by pipes."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Collecting and Growing Flowers",
+      "text": "Jasmine and gardenia flowers can be collected from wild jasmine and gardenia bushes.$(br2)1 flower shapelessly crafts into 2 matching seeds (Jasmine Seed / Gardenia Seed); plant the seeds on farmland to grow a bush."
+    }
+  ]
+}

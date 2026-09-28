@@ -1,0 +1,19 @@
+{
+  "name": "homing morning glory",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:homing_morning_glory",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Empty-hand use opens the same-dimension registry. Name this station (up to 32 characters), save, then select another flower. Blank restores coordinates; coordinates distinguish duplicate names. Redstone enables all living entities, including sneaking players, at 10 mana per success. Bind a filled mana pool. Refresh the panel to see why transport is waiting."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The target must be loaded with supported, unobstructed, safe footing. Farmland uses its actual surface height. No cross-dimension travel or forced loading. A shared 40-tick cooldown and arrival latch prevent bouncing: leave the arrival area before returning. Blocked landing, insufficient mana and power off never charge mana."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/homing_morning_glory"
+    }
+  ]
+}

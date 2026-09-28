@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "botania_tea:tea_seat",
+    "botania_tea:tea_ritual_table",
+    "botania_tea:equipment_pedestal"
+  ]
+}

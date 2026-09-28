@@ -1,0 +1,15 @@
+{
+  "name": "拾遗蒲公英",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:chunk_dandelion",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "预付魔力维持自身所在区块加载。缺魔或移除后撤销自己的票据，不影响其他花的票据。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/chunk_dandelion"
+    }
+  ]
+}

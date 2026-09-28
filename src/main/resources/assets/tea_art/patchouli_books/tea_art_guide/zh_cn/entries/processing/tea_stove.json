@@ -1,0 +1,18 @@
+{
+  "name": "茶炉",
+  "icon": "tea_art:tea_stove",
+  "category": "tea_art:processing",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "茶炉的用法",
+      "text": "茶炉有 4 个槽。每个槽放入 1 件物品后，茶炉会按营火（campfire）配方加工，耗时 600 tick（30 秒）。$(br2)茶炉可以加工食材与茶叶；放入可加工物品不需要燃料，茶炉自带热源。用 GUI 放入物品并查看加工进度。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "成品的输出",
+      "text": "加工完成后，成品会自动送入相邻的竹制管道网络。$(br2)如果送不进去，成品会从茶炉上方弹出。"
+    }
+  ]
+}

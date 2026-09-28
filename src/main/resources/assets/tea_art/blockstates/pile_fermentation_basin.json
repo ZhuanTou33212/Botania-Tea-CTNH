@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tea_art:block/pile_fermentation_basin" },
+    "facing=east": { "model": "tea_art:block/pile_fermentation_basin", "y": 90 },
+    "facing=south": { "model": "tea_art:block/pile_fermentation_basin", "y": 180 },
+    "facing=west": { "model": "tea_art:block/pile_fermentation_basin", "y": 270 }
+  }
+}

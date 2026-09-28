@@ -1,0 +1,15 @@
+{
+  "name": "候汤睡莲",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:water_supply_lily",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "无需魔力，默认每20工作刻向附近流体容器补100mB；空花药台则一次补满清水，不改动已有材料，满台跳过。每次实际补液均有粒子。$(br2)施印后用满桶选液，消耗样液并返还空桶，之后免费供该液体。花药台只接受清水，其他液体不会填入。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/water_supply_lily"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Aftertaste Daisy",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:aftertaste_daisy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Consumes tea residue from drops or a bound inventory. Defaults to 400 mana after 40 work ticks. Does not keep consuming when output cannot be stored.$(br2)Tea residue comes from brewing: the Tea Table yields one per leaf, and with the Create addon the Steeping Tank also yields one per leaf brewed. Each tank block stores up to 64 and the machine stops when full."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/aftertaste_daisy"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "CCC",
+    "C C"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:clay_ball"
+    },
+    "C": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "tea_art:teapot"
+  }
+}

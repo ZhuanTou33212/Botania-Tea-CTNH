@@ -1,0 +1,1482 @@
+[
+ {
+  "schema_version": 1,
+  "priority": 950,
+  "selector": {
+   "item": "minecraft:acacia_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 951,
+  "selector": {
+   "item": "minecraft:acacia_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 952,
+  "selector": {
+   "item": "minecraft:acacia_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 953,
+  "selector": {
+   "item": "minecraft:andesite_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 954,
+  "selector": {
+   "item": "minecraft:andesite_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 955,
+  "selector": {
+   "item": "minecraft:bamboo_mosaic_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 956,
+  "selector": {
+   "item": "minecraft:bamboo_mosaic_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 957,
+  "selector": {
+   "item": "minecraft:bamboo_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 958,
+  "selector": {
+   "item": "minecraft:bamboo_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 959,
+  "selector": {
+   "item": "minecraft:birch_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 960,
+  "selector": {
+   "item": "minecraft:birch_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 961,
+  "selector": {
+   "item": "minecraft:birch_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 962,
+  "selector": {
+   "item": "minecraft:black_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 963,
+  "selector": {
+   "item": "minecraft:black_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 964,
+  "selector": {
+   "item": "minecraft:blackstone_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 965,
+  "selector": {
+   "item": "minecraft:blackstone_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 966,
+  "selector": {
+   "item": "minecraft:blaze_powder"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 967,
+  "selector": {
+   "item": "minecraft:blue_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 968,
+  "selector": {
+   "item": "minecraft:blue_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 969,
+  "selector": {
+   "item": "minecraft:brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 970,
+  "selector": {
+   "item": "minecraft:brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 971,
+  "selector": {
+   "item": "minecraft:brown_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 972,
+  "selector": {
+   "item": "minecraft:brown_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 973,
+  "selector": {
+   "item": "minecraft:cherry_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 974,
+  "selector": {
+   "item": "minecraft:cherry_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 975,
+  "selector": {
+   "item": "minecraft:cherry_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 976,
+  "selector": {
+   "item": "minecraft:cobbled_deepslate_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 977,
+  "selector": {
+   "item": "minecraft:cobbled_deepslate_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 978,
+  "selector": {
+   "item": "minecraft:cobblestone_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 979,
+  "selector": {
+   "item": "minecraft:cobblestone_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 980,
+  "selector": {
+   "item": "minecraft:crimson_hyphae"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 981,
+  "selector": {
+   "item": "minecraft:crimson_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 982,
+  "selector": {
+   "item": "minecraft:crimson_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 983,
+  "selector": {
+   "item": "minecraft:cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 984,
+  "selector": {
+   "item": "minecraft:cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 985,
+  "selector": {
+   "item": "minecraft:cyan_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 986,
+  "selector": {
+   "item": "minecraft:cyan_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 987,
+  "selector": {
+   "item": "minecraft:dark_oak_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 988,
+  "selector": {
+   "item": "minecraft:dark_oak_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 989,
+  "selector": {
+   "item": "minecraft:dark_oak_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 990,
+  "selector": {
+   "item": "minecraft:dark_prismarine_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 991,
+  "selector": {
+   "item": "minecraft:dark_prismarine_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 992,
+  "selector": {
+   "item": "minecraft:deepslate_brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 993,
+  "selector": {
+   "item": "minecraft:deepslate_brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 994,
+  "selector": {
+   "item": "minecraft:deepslate_tile_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 995,
+  "selector": {
+   "item": "minecraft:deepslate_tile_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 996,
+  "selector": {
+   "item": "minecraft:diorite_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 997,
+  "selector": {
+   "item": "minecraft:diorite_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 998,
+  "selector": {
+   "item": "minecraft:end_stone_brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 999,
+  "selector": {
+   "item": "minecraft:end_stone_brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1000,
+  "selector": {
+   "item": "minecraft:exposed_cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1001,
+  "selector": {
+   "item": "minecraft:exposed_cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1002,
+  "selector": {
+   "item": "minecraft:glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1003,
+  "selector": {
+   "item": "minecraft:gold_nugget"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1004,
+  "selector": {
+   "item": "minecraft:granite_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1005,
+  "selector": {
+   "item": "minecraft:granite_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1006,
+  "selector": {
+   "item": "minecraft:gray_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1007,
+  "selector": {
+   "item": "minecraft:gray_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1008,
+  "selector": {
+   "item": "minecraft:green_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1009,
+  "selector": {
+   "item": "minecraft:green_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1010,
+  "selector": {
+   "item": "minecraft:iron_bars"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1011,
+  "selector": {
+   "item": "minecraft:iron_nugget"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1012,
+  "selector": {
+   "item": "minecraft:jungle_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1013,
+  "selector": {
+   "item": "minecraft:jungle_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1014,
+  "selector": {
+   "item": "minecraft:jungle_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1015,
+  "selector": {
+   "item": "minecraft:ladder"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1016,
+  "selector": {
+   "item": "minecraft:light_blue_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1017,
+  "selector": {
+   "item": "minecraft:light_blue_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1018,
+  "selector": {
+   "item": "minecraft:light_gray_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1019,
+  "selector": {
+   "item": "minecraft:light_gray_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1020,
+  "selector": {
+   "item": "minecraft:lime_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1021,
+  "selector": {
+   "item": "minecraft:lime_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1022,
+  "selector": {
+   "item": "minecraft:magenta_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1023,
+  "selector": {
+   "item": "minecraft:magenta_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1024,
+  "selector": {
+   "item": "minecraft:mangrove_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1025,
+  "selector": {
+   "item": "minecraft:mangrove_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1026,
+  "selector": {
+   "item": "minecraft:mangrove_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1027,
+  "selector": {
+   "item": "minecraft:moss_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1028,
+  "selector": {
+   "item": "minecraft:mossy_cobblestone_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1029,
+  "selector": {
+   "item": "minecraft:mossy_cobblestone_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1030,
+  "selector": {
+   "item": "minecraft:mossy_stone_brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1031,
+  "selector": {
+   "item": "minecraft:mossy_stone_brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1032,
+  "selector": {
+   "item": "minecraft:mud_brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1033,
+  "selector": {
+   "item": "minecraft:mud_brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1034,
+  "selector": {
+   "item": "minecraft:oak_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1035,
+  "selector": {
+   "item": "minecraft:oak_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1036,
+  "selector": {
+   "item": "minecraft:oak_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1037,
+  "selector": {
+   "item": "minecraft:orange_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1038,
+  "selector": {
+   "item": "minecraft:orange_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1039,
+  "selector": {
+   "item": "minecraft:oxidized_cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1040,
+  "selector": {
+   "item": "minecraft:oxidized_cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1041,
+  "selector": {
+   "item": "minecraft:pink_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1042,
+  "selector": {
+   "item": "minecraft:pink_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1043,
+  "selector": {
+   "item": "minecraft:polished_andesite_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1044,
+  "selector": {
+   "item": "minecraft:polished_andesite_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1045,
+  "selector": {
+   "item": "minecraft:polished_blackstone_brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1046,
+  "selector": {
+   "item": "minecraft:polished_blackstone_brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1047,
+  "selector": {
+   "item": "minecraft:polished_blackstone_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1048,
+  "selector": {
+   "item": "minecraft:polished_blackstone_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1049,
+  "selector": {
+   "item": "minecraft:polished_deepslate_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1050,
+  "selector": {
+   "item": "minecraft:polished_deepslate_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1051,
+  "selector": {
+   "item": "minecraft:polished_diorite_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1052,
+  "selector": {
+   "item": "minecraft:polished_diorite_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1053,
+  "selector": {
+   "item": "minecraft:polished_granite_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1054,
+  "selector": {
+   "item": "minecraft:polished_granite_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1055,
+  "selector": {
+   "item": "minecraft:prismarine_brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1056,
+  "selector": {
+   "item": "minecraft:prismarine_brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1057,
+  "selector": {
+   "item": "minecraft:purple_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1058,
+  "selector": {
+   "item": "minecraft:purple_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1059,
+  "selector": {
+   "item": "minecraft:red_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1060,
+  "selector": {
+   "item": "minecraft:red_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1061,
+  "selector": {
+   "item": "minecraft:smooth_quartz_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1062,
+  "selector": {
+   "item": "minecraft:smooth_quartz_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1063,
+  "selector": {
+   "item": "minecraft:smooth_stone_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1064,
+  "selector": {
+   "item": "minecraft:spruce_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1065,
+  "selector": {
+   "item": "minecraft:spruce_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1066,
+  "selector": {
+   "item": "minecraft:spruce_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1067,
+  "selector": {
+   "item": "minecraft:stone_brick_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1068,
+  "selector": {
+   "item": "minecraft:stone_brick_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1069,
+  "selector": {
+   "item": "minecraft:stone_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1070,
+  "selector": {
+   "item": "minecraft:stone_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1071,
+  "selector": {
+   "item": "minecraft:stripped_acacia_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1072,
+  "selector": {
+   "item": "minecraft:stripped_birch_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1073,
+  "selector": {
+   "item": "minecraft:stripped_cherry_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1074,
+  "selector": {
+   "item": "minecraft:stripped_crimson_hyphae"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1075,
+  "selector": {
+   "item": "minecraft:stripped_dark_oak_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1076,
+  "selector": {
+   "item": "minecraft:stripped_jungle_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1077,
+  "selector": {
+   "item": "minecraft:stripped_mangrove_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1078,
+  "selector": {
+   "item": "minecraft:stripped_oak_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1079,
+  "selector": {
+   "item": "minecraft:stripped_spruce_wood"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1080,
+  "selector": {
+   "item": "minecraft:stripped_warped_hyphae"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1081,
+  "selector": {
+   "item": "minecraft:warped_hyphae"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1082,
+  "selector": {
+   "item": "minecraft:warped_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1083,
+  "selector": {
+   "item": "minecraft:warped_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1084,
+  "selector": {
+   "item": "minecraft:waxed_cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1085,
+  "selector": {
+   "item": "minecraft:waxed_cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1086,
+  "selector": {
+   "item": "minecraft:waxed_exposed_cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1087,
+  "selector": {
+   "item": "minecraft:waxed_exposed_cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1088,
+  "selector": {
+   "item": "minecraft:waxed_oxidized_cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1089,
+  "selector": {
+   "item": "minecraft:waxed_oxidized_cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1090,
+  "selector": {
+   "item": "minecraft:waxed_weathered_cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1091,
+  "selector": {
+   "item": "minecraft:waxed_weathered_cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1092,
+  "selector": {
+   "item": "minecraft:weathered_cut_copper_slab"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1093,
+  "selector": {
+   "item": "minecraft:weathered_cut_copper_stairs"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1094,
+  "selector": {
+   "item": "minecraft:white_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1095,
+  "selector": {
+   "item": "minecraft:white_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1096,
+  "selector": {
+   "item": "minecraft:yellow_carpet"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1097,
+  "selector": {
+   "item": "minecraft:yellow_stained_glass_pane"
+  },
+  "fallback_vector": {},
+  "mode": "override",
+  "reason": "规则① 子级物品：一次合成出多个且摊到单个为分数，不承载要素（父级单位计价）"
+ }
+]

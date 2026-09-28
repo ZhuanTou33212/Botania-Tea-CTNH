@@ -1,0 +1,17 @@
+{
+  "name": "Planting and Growth",
+  "icon": "tea_art:tea_seed",
+  "category": "tea_art:cultivation",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Tea seeds grow into tea bushes. Young stages show sparse shoots, then gain side branches and older leaves. Mature stages show brighter tender buds at the top.$(br2)For stable harvesting, plant a small tea garden near water or along a forest edge."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:tea_seed",
+      "text": "Craft tea seeds from wheat seeds and any leaves; fresh leaves go into processing."
+    }
+  ]
+}

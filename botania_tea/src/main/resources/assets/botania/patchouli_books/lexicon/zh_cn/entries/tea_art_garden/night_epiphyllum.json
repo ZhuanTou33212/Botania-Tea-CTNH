@@ -1,0 +1,15 @@
+{
+  "name": "照夜昙花",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:night_epiphyllum",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "无需魔力即可发光15，并抑制15×15水平领域内敌对生物的自然生成。不从池中吸魔，不禁止刷怪笼、命令或其他生成来源。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/night_epiphyllum"
+    }
+  ]
+}

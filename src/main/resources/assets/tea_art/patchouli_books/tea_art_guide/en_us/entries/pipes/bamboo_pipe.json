@@ -1,0 +1,55 @@
+{
+  "name": "Bamboo Pipes",
+  "icon": "tea_art:bamboo_pipe",
+  "category": "tea_art:pipes",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe",
+      "title": "Basic Pipe",
+      "text": "Bamboo pipes connect to nearby pipes, tea work blocks, containers, and ports. The basic rate is 1 item every 5 ticks."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Pipe color is the channel. Right-click a pipe with dye to recolor it. Pipes of the same color connect into one network; different colors stay separate even when adjacent.$(br2)By default, pipes extract only from this mod's work blocks. Normal containers are input targets unless an output port is used."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe_output_port",
+      "title": "Output Port",
+      "text": "An output port marks an active extraction point. Place it beside a container or work block; it extracts from the block it faces."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "If a pipe network contains an output port that can extract an item, output ports take priority over default work-block output. The network extracts from ports first, and falls back to work blocks when ports have nothing available.$(br2)Items from work blocks are not sent into blocks that have output ports, preventing fresh output from cycling back into an extraction container."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe_input_port",
+      "title": "Input Port",
+      "text": "An input port only accepts input. Place it beside a container or work block; pipes can insert into the block it faces, but they will not extract from that port."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Input ports have the lowest target priority. The network tries normal containers or work-block targets first, and only tries input ports when those targets cannot accept the item.$(br2)If multiple input ports are available, the pipe rotates between them. Right-click an input port to open its filter screen and choose whitelist or blacklist mode."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe_redstone_port",
+      "title": "Redstone Port",
+      "text": "A redstone port lets redstone control a pipe connection. When closed, items cannot pass through that connection; when open, it behaves like a controlled pipe segment."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_wrench",
+      "title": "Bamboo Wrench",
+      "text": "Right-click a pipe side with the bamboo wrench to toggle that side's connection. Sneak-right-click a pipe, input or output port to quickly break it.$(br2)The wrench rotates horizontal-facing blocks such as tea tables and roasting pans. Ports auto-align to adjacent containers or pipes and cannot be rotated manually, and redstone ports cannot be wrench-broken."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Output Rules",
+      "text": "Source priority: output ports are highest, followed by this mod's work-block default outputs. Normal containers are not extracted by plain pipes unless you add an output port.$(br2)Target priority: normal insertable blocks first, input ports last. Multiple sources, normal targets, and input ports are all scheduled by rotation."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dark Tea: Pile Fermentation",
+  "icon": "tea_art:black_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 4,
+  "turnin": "tea_art:make_black_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Route: fresh leaf -> pan fixation -> rolling table -> pile fermentation basin piling -> sieve-rack drying.$(br2)Dark tea leans on post-fermentation: darker leaves, thicker taste. After pile fermentation, dry the leaves on the sieve rack."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:black_tea_leaf",
+      "title": "Task",
+      "text": "Obtaining dark tea completes the “Dark Tea Pile” advancement."
+    }
+  ]
+}

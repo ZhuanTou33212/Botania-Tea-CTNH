@@ -1,0 +1,15 @@
+{
+  "name": "butterfly orchid",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:butterfly_orchid",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Redstone alone starts visits to up to 16 finished tea blocks in a 15x15 area. No manual activation, input pool or mana fee is needed. Each visit takes 40 work ticks. Only consumed blocks count; redstone-off finishes the current visit. Output=N*3750*(1+0.25*(D-1)), 50% above the old default. Keep an output path. Repeated tea carries hidden risks; sealing does not remove them. Crafting returns the ascended bottle."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/butterfly_orchid"
+    }
+  ]
+}

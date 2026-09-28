@@ -1,0 +1,19 @@
+{
+  "name": "红茶：揉捻发酵",
+  "icon": "tea_art:red_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 3,
+  "turnin": "tea_art:make_red_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "路线：鲜叶 -> 萎凋盘 -> 揉茶台 -> 发酵缸 -> 茶篦干燥。$(br2)红茶需要较充分的发酵。发酵后直接干燥会转成红茶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:red_tea_leaf",
+      "title": "任务",
+      "text": "获得红茶会完成“红汤初成”成就。"
+    }
+  ]
+}

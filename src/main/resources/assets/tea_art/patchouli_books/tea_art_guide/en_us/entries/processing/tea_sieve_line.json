@@ -1,0 +1,23 @@
+{
+  "name": "Tea Sieve and Tea Sieve Rack",
+  "icon": "tea_art:tea_sieve_rack",
+  "category": "tea_art:processing",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Tea Sieve",
+      "text": "The Tea Sieve is both an item and a block: 1 sieve equals 1 block.$(br2)It is the working part of the Tea Sieve Rack. Craft the sieve and the rack first, then insert the sieve into the rack."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Tea Sieve Rack",
+      "text": "The Tea Sieve Rack can hold up to 3 Tea Sieves, and each slot works independently.$(br2)Drying one batch in a slot takes 400 ticks (20 seconds)."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Drying Tea",
+      "text": "Put fixed and rolled tea leaves onto the Tea Sieve Rack to dry them into the matching finished tea."
+    }
+  ]
+}

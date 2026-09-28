@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:roasting_fan"
+  }
+}

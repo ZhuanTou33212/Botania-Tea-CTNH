@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tea_art:tea_planks"
+    }
+  ],
+  "result": {
+    "item": "tea_art:tea_button"
+  }
+}

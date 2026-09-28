@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "botania_tea:floating_flower",
+  "ingredients": [
+    {
+      "tag": "botania:floating_flowers"
+    },
+    {
+      "item": "botania_tea:homing_morning_glory_chibi"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:floating_homing_morning_glory_chibi"
+  }
+}

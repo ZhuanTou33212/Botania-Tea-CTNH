@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:block",
+  "pools": [{ "rolls": 1, "entries": [{ "type": "minecraft:item", "name": "botania_tea:tea_essence_distiller" }],
+    "conditions": [{ "condition": "minecraft:survives_explosion" }] }]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gauging hydrangea",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:gauging_hydrangea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Checks a bound container every 10 ticks by default. /botaniatea measure x y z fluid less threshold sets strict comparisons; equality outputs zero. Use a fluid container to select fluid without consuming it. A match emits redstone 15. Works without mana and does not draw from pools."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/gauging_hydrangea"
+    }
+  ]
+}

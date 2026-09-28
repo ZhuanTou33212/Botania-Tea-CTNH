@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/block",
+  "flower": {
+    "parent": "botania_tea:block/heteromorphic_camellia_chibi"
+  },
+  "loader": "botania:floating_flower"
+}

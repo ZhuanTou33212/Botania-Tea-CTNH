@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "botania:rune_mana"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:mana_offering"
+  }
+}

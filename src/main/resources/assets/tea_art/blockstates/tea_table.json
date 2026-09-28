@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tea_art:block/tea_table" },
+    "facing=east": { "model": "tea_art:block/tea_table", "y": 90 },
+    "facing=south": { "model": "tea_art:block/tea_table", "y": 180 },
+    "facing=west": { "model": "tea_art:block/tea_table", "y": 270 }
+  }
+}

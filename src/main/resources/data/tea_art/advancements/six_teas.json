@@ -1,0 +1,110 @@
+{
+  "parent": "tea_art:get_tea_leaf",
+  "display": {
+    "icon": {
+      "item": "tea_art:oolong_tea_leaf"
+    },
+    "title": {
+      "translate": "advancements.tea_art.six_teas.title"
+    },
+    "description": {
+      "translate": "advancements.tea_art.six_teas.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "green": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:green_tea_leaf"
+            ]
+          }
+        ]
+      }
+    },
+    "white": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:white_tea_leaf"
+            ]
+          }
+        ]
+      }
+    },
+    "yellow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:yellow_tea_leaf"
+            ]
+          }
+        ]
+      }
+    },
+    "red": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:red_tea_leaf"
+            ]
+          }
+        ]
+      }
+    },
+    "black": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:black_tea_leaf"
+            ]
+          }
+        ]
+      }
+    },
+    "oolong": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:oolong_tea_leaf"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "green"
+    ],
+    [
+      "white"
+    ],
+    [
+      "yellow"
+    ],
+    [
+      "red"
+    ],
+    [
+      "black"
+    ],
+    [
+      "oolong"
+    ]
+  ]
+}

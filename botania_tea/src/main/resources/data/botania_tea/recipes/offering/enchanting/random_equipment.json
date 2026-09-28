@@ -1,0 +1,10 @@
+{
+  "type": "botania_tea:offering_enchanting",
+  "target": { "tag": "botania_tea:enchantable_equipment" },
+  "elements": { "botania_tea:magic_crystal": 1 },
+  "ascended_crystals": 1,
+  "mana": 2000,
+  "duration": 200,
+  "enchantment": { "id": "minecraft:unbreaking", "level": 1 },
+  "random": true
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": { "all": "tea_art:block/white_tea_block_connected" },
+  "elements": [
+    {
+      "from": [0, 0, 0], "to": [16, 16, 16],
+      "faces": {
+        "down": { "texture": "#all", "uv": [0, 0, 2, 2], "cullface": "down" },
+        "up": { "texture": "#all", "uv": [0, 0, 2, 2], "cullface": "up" },
+        "north": { "texture": "#all", "uv": [0, 0, 2, 2], "cullface": "north" },
+        "south": { "texture": "#all", "uv": [0, 0, 2, 2], "cullface": "south" },
+        "east": { "texture": "#all", "uv": [0, 0, 2, 2], "cullface": "east" },
+        "west": { "texture": "#all", "uv": [0, 0, 2, 2], "cullface": "west" }
+      }
+    }
+  ]
+}

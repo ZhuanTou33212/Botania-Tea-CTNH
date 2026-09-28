@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "tea_art:block/tea_planks",
+    "top": "tea_art:block/tea_planks",
+    "side": "tea_art:block/tea_planks"
+  }
+}

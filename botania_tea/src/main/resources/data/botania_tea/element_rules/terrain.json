@@ -1,0 +1,13 @@
+[
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:stone"},"categories":["stone_material"],"fallback_vector":{"stone":"1"},"mode":"fallback_if_no_recipe","reason":"Stone-family fallback after deterministic recipes"},
+  {"schema_version":1,"priority":121,"selector":{"item":"minecraft:deepslate"},"categories":["stone_material"],"fallback_vector":{"stone":"1"},"mode":"override","reason":"Deepslate is stone-family; its recipe route resolved to mechanism, so the stone fallback cannot apply"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:sand"},"categories":["earth_material"],"fallback_vector":{"earth":"1"},"mode":"fallback_if_no_recipe","reason":"Sand-family fallback"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"forge:gravel"},"categories":["earth_material"],"fallback_vector":{"earth":"1"},"mode":"fallback_if_no_recipe","reason":"Gravel is sedimentary earth material"},
+  {"schema_version":1,"priority":120,"selector":{"item_tag":"minecraft:dirt"},"categories":["earth_material"],"fallback_vector":{"earth":"1"},"mode":"fallback_if_no_recipe","reason":"Dirt-family fallback"},
+  {"schema_version":1,"priority":110,"selector":{"item_tag":"minecraft:leaves"},"categories":["plant_material"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Leaves are plant material"},
+  {"schema_version":1,"priority":110,"selector":{"item_tag":"minecraft:saplings"},"categories":["plant_material","life_material"],"fallback_vector":{"plant":"1","life":"1"},"mode":"fallback_if_no_recipe","reason":"Sapling fallback"},
+  {"schema_version":1,"priority":110,"selector":{"item_tag":"minecraft:planks"},"categories":["plant_material"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Planks inherit the wood material when no recipe route resolves"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"minecraft:flowers"},"categories":["plant_material","life_material"],"fallback_vector":{"plant":"1","life":"1"},"mode":"fallback_if_no_recipe","reason":"Flower-family fallback"},
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"botania:petals"},"categories":["plant_material"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Botania petal material fallback"},
+  {"schema_version":1,"priority":90,"selector":{"tag_prefix":"create:stone_types/"},"categories":["stone_material"],"fallback_vector":{"stone":"1"},"mode":"fallback_if_no_recipe","reason":"Create stone-family fallback"}
+]

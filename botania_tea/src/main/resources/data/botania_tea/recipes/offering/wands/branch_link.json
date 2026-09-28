@@ -1,0 +1,21 @@
+{
+ "type": "botania_tea:offering_crafting",
+ "substrate": {
+  "ingredient": {
+   "item": "botania_tea:ritual_substrate"
+  },
+  "count": 1
+ },
+ "elements": {
+  "plant_crystal": 16,
+  "life_crystal": 16,
+  "magic_crystal": 16
+ },
+ "ascended_crystals": 0,
+ "mana": 10000,
+ "duration": 400,
+ "result": {
+  "item": "botania_tea:branch_link_wand",
+  "count": 1
+ }
+}

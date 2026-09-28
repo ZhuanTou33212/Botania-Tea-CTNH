@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "botania_tea:floating_flower",
+  "ingredients": [
+    {
+      "tag": "botania:floating_flowers"
+    },
+    {
+      "item": "botania_tea:butterfly_orchid"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:floating_butterfly_orchid"
+  }
+}

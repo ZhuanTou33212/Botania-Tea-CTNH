@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "tea_art:white_tea_leaf",
+    "tea_art:green_tea_leaf",
+    "tea_art:yellow_tea_leaf",
+    "tea_art:red_tea_leaf",
+    "tea_art:oolong_tea_leaf",
+    "tea_art:black_tea_leaf",
+    "tea_art:jasmine_flower_tea_leaf",
+    "tea_art:gardenia_tea_leaf"
+  ]
+}

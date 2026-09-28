@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "botania_tea:item/homing_morning_glory_chibi"
+  }
+}

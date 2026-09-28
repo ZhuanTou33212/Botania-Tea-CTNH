@@ -1,0 +1,18 @@
+{
+  "name": "Filtering and Debugging",
+  "icon": "tea_art:bamboo_wrench",
+  "category": "tea_art:pipes",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Filters",
+      "text": "Right-click an input or output port to configure whitelist or blacklist filtering. Filters are local to the port."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Wrench",
+      "text": "Use the bamboo wrench on a pipe side to disable or restore that single connection. Check color, facing, filters, redstone state, and target inventory space when items stop moving."
+    }
+  ]
+}

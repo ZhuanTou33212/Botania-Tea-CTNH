@@ -1,0 +1,31 @@
+{
+  "parent": "tea_art:get_tea_leaf",
+  "display": {
+    "icon": {
+      "item": "tea_art:red_tea_leaf"
+    },
+    "title": {
+      "translate": "advancements.tea_art.make_red_tea.title"
+    },
+    "description": {
+      "translate": "advancements.tea_art.make_red_tea.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "has_red_tea": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:red_tea_leaf"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

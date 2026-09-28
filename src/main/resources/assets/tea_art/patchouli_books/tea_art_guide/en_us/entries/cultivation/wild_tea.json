@@ -1,0 +1,18 @@
+{
+  "name": "Wild Tea Trees",
+  "icon": "tea_art:tea_seed",
+  "category": "tea_art:cultivation",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A tea plant should feel like a low evergreen shrub, not a single crop blade. Mature plants have deep, glossy leaves with pale yellow-green buds at the tips.$(br2)The new tea tree textures use dark leaf layers and bright tender shoots so wild tea patches read more like real tea bushes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:tea_leaf",
+      "title": "Fresh Leaves",
+      "text": "Mature wild tea trees drop 2–4 fresh leaves and may drop a tea sapling; tea seeds come from planted tea crops or crafting. Fresh leaves do not use NBT to decide tea type; the processing steps create the differences."
+    }
+  ]
+}

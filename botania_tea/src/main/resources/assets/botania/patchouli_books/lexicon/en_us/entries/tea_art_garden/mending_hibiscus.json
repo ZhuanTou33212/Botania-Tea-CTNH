@@ -1,0 +1,15 @@
+{
+  "name": "mending hibiscus",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:mending_hibiscus",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Unbound, finds the nearest damaged item on an equipment pedestal or Botania Tiny Potato's six display slots within 8 blocks. Optionally bind one pedestal with the wand. Restores 1 durability for 50 mana, preserving enchantments/NBT. A full, empty or invalid explicit binding never falls back or charges. Crafting-repair veto does not block mana restoration."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/mending_hibiscus"
+    }
+  ]
+}

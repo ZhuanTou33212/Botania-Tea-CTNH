@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IPI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "tea_art:bamboo_pipe"
+    }
+  },
+  "result": {
+    "item": "tea_art:bamboo_pipe_output_port"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,has_tea=false": { "model": "tea_art:block/fermentation_vat" },
+    "facing=east,has_tea=false": { "model": "tea_art:block/fermentation_vat", "y": 90 },
+    "facing=south,has_tea=false": { "model": "tea_art:block/fermentation_vat", "y": 180 },
+    "facing=west,has_tea=false": { "model": "tea_art:block/fermentation_vat", "y": 270 },
+    "facing=north,has_tea=true": { "model": "tea_art:block/fermentation_vat_full" },
+    "facing=east,has_tea=true": { "model": "tea_art:block/fermentation_vat_full", "y": 90 },
+    "facing=south,has_tea=true": { "model": "tea_art:block/fermentation_vat_full", "y": 180 },
+    "facing=west,has_tea=true": { "model": "tea_art:block/fermentation_vat_full", "y": 270 }
+  }
+}

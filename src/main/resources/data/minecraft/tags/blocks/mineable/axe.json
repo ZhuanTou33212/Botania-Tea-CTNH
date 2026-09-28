@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "tea_art:tea_log",
+    "tea_art:tea_planks",
+    "tea_art:tea_stairs",
+    "tea_art:tea_slab",
+    "tea_art:tea_fence",
+    "tea_art:tea_fence_gate",
+    "tea_art:tea_button",
+    "tea_art:tea_pressure_plate",
+    "tea_art:bamboo_pipe",
+    "tea_art:bamboo_pipe_output_port",
+    "tea_art:bamboo_pipe_input_port",
+    "tea_art:bamboo_pipe_redstone_port"
+  ]
+}

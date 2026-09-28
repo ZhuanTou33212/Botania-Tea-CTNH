@@ -1,0 +1,19 @@
+{
+  "name": "黄茶：闷黄回甘",
+  "icon": "tea_art:yellow_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 2,
+  "turnin": "tea_art:make_yellow_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "路线：鲜叶 -> 炒茶锅杀青 -> 揉茶台揉捻 -> 炭焙炉焖黄 -> 茶篦干燥。$(br2)闷黄让茶叶颜色转暖、滋味更柔和。最后干燥时转成黄茶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:yellow_tea_leaf",
+      "title": "任务",
+      "text": "获得黄茶会完成“闷黄成香”成就。"
+    }
+  ]
+}

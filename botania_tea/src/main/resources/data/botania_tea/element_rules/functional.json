@@ -1,0 +1,18 @@
+[
+  {"schema_version":1,"priority":220,"selector":{"item_tag":"botania_tea:element_properties/motion"},"categories":["motion_property"],"fallback_vector":{"motion":"1"},"mode":"augment","reason":"Tools and rotational machines carry one motion element"},
+  {"schema_version":1,"priority":220,"selector":{"item_tag":"botania_tea:element_properties/magic"},"categories":["magic_property"],"fallback_vector":{"magic":"1"},"mode":"augment","reason":"Enchanting and designated magical devices carry one magic element"},
+  {"schema_version":1,"priority":180,"selector":{"item_tag":"botania:mana_using_items"},"categories":["magic_property"],"fallback_vector":{"magic":"1"},"mode":"augment","reason":"Botania mana-consuming devices carry one magic element"},
+  {"schema_version":1,"priority":180,"selector":{"item_tag":"botania:runes"},"categories":["magic_property"],"fallback_vector":{"magic":"1"},"mode":"augment","reason":"Botania runes carry one magic element"},
+  {"schema_version":1,"priority":210,"selector":{"item":"minecraft:enchanting_table"},"categories":["magic_property"],"fallback_vector":{"magic":"1"},"mode":"augment","reason":"Enchantment table carries one magic element"},
+  {"schema_version":1,"priority":210,"selector":{"item":"minecraft:enchanted_book"},"categories":["magic_property"],"fallback_vector":{"magic":"1"},"mode":"augment","reason":"Enchanted book carries one magic element"},
+  {"schema_version":1,"priority":300,"selector":{"item_tag":"minecraft:slabs"},"categories":["decoration_zero"],"fallback_vector":{},"mode":"fallback_if_no_recipe","reason":"Slabs add no extra element count"},
+  {"schema_version":1,"priority":300,"selector":{"item_tag":"minecraft:wool_carpets"},"categories":["decoration_zero"],"fallback_vector":{},"mode":"fallback_if_no_recipe","reason":"Carpets add no extra element count"},
+  {"schema_version":1,"priority":250,"selector":{"item_tag":"minecraft:wooden_stairs"},"categories":["decoration_unit"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Wooden stairs count as one plant element"},
+  {"schema_version":1,"priority":250,"selector":{"item_tag":"minecraft:wooden_fences"},"categories":["decoration_unit"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Wooden fences count as one plant element"},
+  {"schema_version":1,"priority":250,"selector":{"item_tag":"minecraft:wooden_doors"},"categories":["decoration_unit"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Wooden doors count as one plant element"},
+  {"schema_version":1,"priority":250,"selector":{"item_tag":"minecraft:wooden_trapdoors"},"categories":["decoration_unit"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Wooden trapdoors count as one plant element"},
+  {"schema_version":1,"priority":250,"selector":{"item_tag":"minecraft:wooden_buttons"},"categories":["decoration_unit"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Wooden buttons count as one plant element"},
+  {"schema_version":1,"priority":250,"selector":{"item_tag":"minecraft:wooden_pressure_plates"},"categories":["decoration_unit"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Wooden pressure plates count as one plant element"},
+  {"schema_version":1,"priority":250,"selector":{"item_prefix":"minecraft:ladder"},"categories":["decoration_unit"],"fallback_vector":{"plant":"1"},"mode":"fallback_if_no_recipe","reason":"Ladders count as one plant element"},
+  {"schema_version":1,"priority":200,"selector":{"item_tag":"minecraft:walls"},"categories":["decoration_unit"],"fallback_vector":{"stone":"1"},"mode":"fallback_if_no_recipe","reason":"Stone walls count as one stone element"}
+]

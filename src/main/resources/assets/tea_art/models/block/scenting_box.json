@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"4": "tea_art:block/deepslate_bricks",
+		"5": "tea_art:block/scenting_front",
+		"6": "tea_art:block/scenting_side",
+		"missing": "tea_art:block/scenting_box_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 14, 16],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 15], "texture": "#6"},
+				"east": {"uv": [0, 1, 16, 15], "texture": "#5"},
+				"south": {"uv": [0, 1, 16, 15], "texture": "#6"},
+				"west": {"uv": [0, 1, 16, 15], "texture": "#6"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [-1, 14, -1],
+			"to": [17, 16, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 14, 0]},
+			"faces": {
+				"north": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"south": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"west": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"up": {"uv": [0, 2, 16, 15], "texture": "#6"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#6"}
+			}
+		},
+		{
+			"from": [-1, 0, -1],
+			"to": [17, 1, 17],
+			"faces": {
+				"north": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"south": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"west": {"uv": [0, 1, 2, 15], "rotation": 90, "texture": "#6"},
+				"up": {"uv": [0, 2, 16, 15], "texture": "#6"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#6"}
+			}
+		}
+	]
+}

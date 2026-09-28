@@ -1,0 +1,15 @@
+{
+  "name": "补阙木槿",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:mending_hibiscus",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "未绑定时自动寻找8格内最近的有损装备展示台（也支持植物魔法小土豆的6个展示槽）；可用森林法杖绑定指定台。每次默认50魔力恢复1点耐久，保留附魔和NBT。$(br2)指定台已满耐久、无装备或失效时不改修别台，不扣费。合成修理限制不影响耐久恢复。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/mending_hibiscus"
+    }
+  ]
+}

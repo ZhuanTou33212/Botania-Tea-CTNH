@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tea_art:gardenia_flower"
+    }
+  ],
+  "result": {
+    "item": "tea_art:gardenia_seed",
+    "count": 2
+  }
+}

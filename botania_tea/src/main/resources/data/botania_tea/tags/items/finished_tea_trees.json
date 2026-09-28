@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "botania_tea:white_tea_tree",
+    "botania_tea:green_tea_tree",
+    "botania_tea:yellow_tea_tree",
+    "botania_tea:red_tea_tree",
+    "botania_tea:oolong_tea_tree",
+    "botania_tea:black_tea_tree",
+    "botania_tea:jasmine_tea_tree",
+    "botania_tea:gardenia_tea_tree"
+  ]
+}

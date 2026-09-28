@@ -1,0 +1,15 @@
+{
+  "name": "洗尘白芷",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:cleansing_angelica",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "默认维持急迫II。右键茶饮或药水配置整组效果并返容器，空手复位。持续付费，清除与领域相交的蝶梦浊雾；瞬时效果另有冷却。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/cleansing_angelica"
+    }
+  ]
+}

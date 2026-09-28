@@ -1,0 +1,19 @@
+{
+  "name": "黑茶：渥堆后发酵",
+  "icon": "tea_art:black_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 4,
+  "turnin": "tea_art:make_black_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "路线：鲜叶 -> 炒茶锅杀青 -> 揉茶台揉捻 -> 渥堆盆渥堆 -> 茶篦架干燥。$(br2)黑茶重在后发酵，叶色更深、滋味更厚。渥堆后干燥会转成黑茶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:black_tea_leaf",
+      "title": "任务",
+      "text": "获得黑茶会完成“黑茶入堆”成就。"
+    }
+  ]
+}

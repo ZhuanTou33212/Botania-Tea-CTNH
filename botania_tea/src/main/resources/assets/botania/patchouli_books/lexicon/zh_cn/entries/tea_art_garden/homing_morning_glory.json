@@ -1,0 +1,19 @@
+{
+  "name": "归巢牵牛",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:homing_morning_glory",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "空手右键打开同维度位置表，可命名本站并保存，再选择另一朵为目标。名称最多32字符，留空恢复坐标；重名以坐标区分。$(br2)红石开启后，进入范围的生物含潜行玩家均可传送，每次默认10魔力。需绑定有魔力的池；面板可刷新查看未工作的原因。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "目标必须已加载，落脚有支撑且无碰撞或危险；支持耕地的实际表面高度。不能跨维度，也不会强制加载目标。$(br2)共享40tick冷却，抵达后须离开再进入才可再次传送，防止两朵互相回传。落点被堵、魔力不足或断电均不扣费。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/homing_morning_glory"
+    }
+  ]
+}

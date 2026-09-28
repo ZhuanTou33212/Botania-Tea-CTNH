@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CPC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "P": {
+      "item": "tea_art:bamboo_pipe"
+    }
+  },
+  "result": {
+    "item": "tea_art:bamboo_pipe_input_port"
+  }
+}

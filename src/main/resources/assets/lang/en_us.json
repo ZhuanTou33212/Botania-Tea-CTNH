@@ -1,0 +1,19 @@
+{
+  "item.teacraft.tealeaf": "茶叶",
+  "block.teacraft.custom_block": "自定义方块",
+  "creativetab.teacraft": "茶艺",
+  "block.tea_art.tea_sapling": "Tea Sapling",
+  "block.tea_art.tea_log": "Tea Log",
+  "block.tea_art.tea_leaves": "Tea Leaves",
+  "block.tea_art.tea_flower": "Tea Leaves",
+  "item.tea_art.tea_fruit": "Tea Fruit",
+  "biome.tea_art.tea_leaf_forest": "Tea Leaf Forest",
+  "block.tea_art.tea_crop": "Tea Crop",
+  "block.tea_art.tea_planks": "Tea Planks",
+  "block.tea_art.tea_stairs": "Tea Stairs",
+  "block.tea_art.tea_slab": "Tea Slab",
+  "block.tea_art.tea_fence": "Tea Fence",
+  "block.tea_art.tea_fence_gate": "Tea Fence Gate",
+  "block.tea_art.tea_button": "Tea Button",
+  "block.tea_art.tea_pressure_plate": "Tea Pressure Plate"
+}

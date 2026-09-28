@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "tea_art:tea_planks"
+    }
+  },
+  "result": {
+    "item": "tea_art:tea_pressure_plate"
+  }
+}

@@ -1,0 +1,49 @@
+sourceSets {
+    main {
+        java.setSrcDirs([
+                'src/main/java',
+                'tea_art_lib/src/main/java',
+                'botania_tea/src/main/java'
+        ])
+        resources.setSrcDirs([
+                'src/generated/resources',
+                'botania_tea/src/generated/resources',
+                'ctnh-src/main/resources'
+        ])
+    }
+}
+
+dependencies {
+    modImplementation(project(':modules:CTNH-Lib')) { transitive = false }
+    modImplementation(ctnh.patchouli)
+    modImplementation(ctnh.botania)
+    modImplementation(ctnh.farmersdelight)
+    modImplementation(ctnh.terrablender)
+    modCompileOnly(variantOf(ctnh.curios) { classifier('api') })
+    modLocalRuntime(ctnh.curios)
+}
+
+legacyForge {
+    mods {
+        botania_tea {
+            sourceSet(sourceSets.main)
+            sourceSet(sourceSets.client)
+        }
+    }
+}
+
+tasks.named('processResources', ProcessResources).configure {
+    from('src/main/resources') {
+        exclude 'META-INF/mods.toml'
+        exclude 'pack.mcmeta'
+    }
+    from('botania_tea/src/main/resources') {
+        exclude 'META-INF/mods.toml'
+        exclude 'pack.mcmeta'
+        exclude 'botania_tea.mixins.json'
+    }
+}
+
+tasks.named('jar', Jar).configure {
+    manifest.attributes('MixinConfigs': 'botania_tea.mixins.json')
+}

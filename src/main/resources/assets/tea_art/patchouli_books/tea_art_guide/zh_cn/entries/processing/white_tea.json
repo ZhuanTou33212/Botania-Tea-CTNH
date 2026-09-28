@@ -1,0 +1,19 @@
+{
+  "name": "白茶：萎凋见毫",
+  "icon": "tea_art:white_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 1,
+  "turnin": "tea_art:make_white_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "路线：鲜叶 -> 茶篦干燥。$(br2)白茶尽量少翻动，直接干燥形成清甜气息。完成干燥后会转成白茶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:white_tea_leaf",
+      "title": "任务",
+      "text": "获得白茶会完成“白毫初现”成就。"
+    }
+  ]
+}

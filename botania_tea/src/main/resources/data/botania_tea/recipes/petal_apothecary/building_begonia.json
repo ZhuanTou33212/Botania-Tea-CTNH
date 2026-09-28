@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "tea_art:red_tea_leaf"
+    },
+    {
+      "tag": "botania:petals/red"
+    },
+    {
+      "tag": "botania:petals/red"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "botania:rune_earth"
+    }
+  ],
+  "output": {
+    "item": "botania_tea:building_begonia"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,half=lower,lit=false": { "model": "tea_art:block/scenting_box", "y": 270 },
+    "facing=east,half=lower,lit=false": { "model": "tea_art:block/scenting_box" },
+    "facing=south,half=lower,lit=false": { "model": "tea_art:block/scenting_box", "y": 90 },
+    "facing=west,half=lower,lit=false": { "model": "tea_art:block/scenting_box", "y": 180 },
+    "facing=north,half=lower,lit=true": { "model": "tea_art:block/scenting_box_burning", "y": 270 },
+    "facing=east,half=lower,lit=true": { "model": "tea_art:block/scenting_box_burning" },
+    "facing=south,half=lower,lit=true": { "model": "tea_art:block/scenting_box_burning", "y": 90 },
+    "facing=west,half=lower,lit=true": { "model": "tea_art:block/scenting_box_burning", "y": 180 },
+    "facing=north,half=upper,lit=false": { "model": "tea_art:block/scenting_box_upper", "y": 270 },
+    "facing=east,half=upper,lit=false": { "model": "tea_art:block/scenting_box_upper" },
+    "facing=south,half=upper,lit=false": { "model": "tea_art:block/scenting_box_upper", "y": 90 },
+    "facing=west,half=upper,lit=false": { "model": "tea_art:block/scenting_box_upper", "y": 180 },
+    "facing=north,half=upper,lit=true": { "model": "tea_art:block/scenting_box_upper", "y": 270 },
+    "facing=east,half=upper,lit=true": { "model": "tea_art:block/scenting_box_upper" },
+    "facing=south,half=upper,lit=true": { "model": "tea_art:block/scenting_box_upper", "y": 90 },
+    "facing=west,half=upper,lit=true": { "model": "tea_art:block/scenting_box_upper", "y": 180 }
+  }
+}

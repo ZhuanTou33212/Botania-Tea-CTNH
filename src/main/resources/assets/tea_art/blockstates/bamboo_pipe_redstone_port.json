@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=down,inverted=false,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port", "x": 90 },
+    "facing=down,inverted=false,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "x": 90 },
+    "facing=down,inverted=true,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "x": 90 },
+    "facing=down,inverted=true,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port", "x": 90 },
+    "facing=up,inverted=false,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port", "x": 270 },
+    "facing=up,inverted=false,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "x": 270 },
+    "facing=up,inverted=true,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "x": 270 },
+    "facing=up,inverted=true,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port", "x": 270 },
+    "facing=north,inverted=false,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port" },
+    "facing=north,inverted=false,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port_on" },
+    "facing=north,inverted=true,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port_on" },
+    "facing=north,inverted=true,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port" },
+    "facing=south,inverted=false,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port", "y": 180 },
+    "facing=south,inverted=false,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "y": 180 },
+    "facing=south,inverted=true,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "y": 180 },
+    "facing=south,inverted=true,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port", "y": 180 },
+    "facing=west,inverted=false,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port", "y": 270 },
+    "facing=west,inverted=false,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "y": 270 },
+    "facing=west,inverted=true,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "y": 270 },
+    "facing=west,inverted=true,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port", "y": 270 },
+    "facing=east,inverted=false,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port", "y": 90 },
+    "facing=east,inverted=false,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "y": 90 },
+    "facing=east,inverted=true,powered=false": { "model": "tea_art:block/bamboo_pipe_redstone_port_on", "y": 90 },
+    "facing=east,inverted=true,powered=true": { "model": "tea_art:block/bamboo_pipe_redstone_port", "y": 90 }
+  }
+}

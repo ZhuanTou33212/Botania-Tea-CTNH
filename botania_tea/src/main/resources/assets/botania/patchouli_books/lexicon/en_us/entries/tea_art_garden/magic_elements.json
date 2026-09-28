@@ -1,0 +1,16 @@
+{
+  "name": "Magic Elements",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:air_crystal",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The twenty source crystals are the element charge consumed by the Offering Ritual's pedestals. Their exact integer counts are consumed at completion; no generic item is assigned a zero-cost fallback. The element distiller keeps the existing legacy mode and adds explicit element and ascended modes. Ascended crystals come from the ascended mode and are used by some flower and ritual recipes; the Offering Ritual altar also needs a matching category substrate (mineral, plant, magic, block, animal, monster, gear, grass or gaia; wands and misc use the ritual substrate)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "botania_tea:air_crystal",
+      "text": "Air is the first source crystal in the baseline route. The other crystals follow the same exact-count rules and are listed in the recipe viewer."
+    }
+  ]
+}

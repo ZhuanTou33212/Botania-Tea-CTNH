@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tea_art:item/jasmine_flower_tea_leaf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "tea_art:gardenia_tea_leaf"
+    },
+    {
+      "tag": "botania:petals/blue"
+    },
+    {
+      "tag": "botania:petals/blue"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "botania:rune_air"
+    }
+  ],
+  "output": {
+    "item": "botania_tea:projectile_bellflower"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

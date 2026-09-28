@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "CFC",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:stone" },
+    "C": { "item": "minecraft:charcoal" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "F": { "item": "minecraft:furnace" }
+  },
+  "result": {
+    "item": "tea_art:charcoal_roaster"
+  }
+}

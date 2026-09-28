@@ -1,0 +1,78 @@
+{
+  "name": "器具、茶座与茶印",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:shanhai_seal",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "行山茶壶",
+      "text": "默认储存4000毫桶的单一液体，每次饮用消耗250毫桶茶汤并获得对应茶效。可通过兼容的流体容器或设备注入、取出。$(br2)不能混装不同液体；不足250毫桶时不能饮用。水不会被当成茶汤给予茶效。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "踏岚环与青篁钩",
+      "text": "踏岚环须装备在饰品的戒指槽，放背包里无效。它让玩家立于水面，并拦截从上方落入水面的下坠；潜行允许入水，不支持岩浆。$(br2)青篁钩总会沿准星方向发射；64格内碰到固体方块后挂住，否则到达64格即消失。生存模式发射与牵引各消耗10魔力（牵引每刻），创造模式免费。再次右键或潜行可收回。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "焙火扇",
+      "text": "使用时消耗100魔力并冷却20刻，点燃玩家前方以2格处为中心、横向3格且纵向3格范围内的生物与可放置火焰的方块。若直接对加工设备使用，还会默认推进20工作刻。$(br2)设备仍须满足原配方、燃料和产物空间条件。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "白瓷护盏",
+      "text": "持续使用时，为来自正面的伤害提供付费减伤；默认减半，每抵消1点伤害花费20魔力。魔力不足时只抵消能够支付的部分，背后与虚空伤害不在此保护内。$(br2)不使用护盏、仅把它放在副手时，茶饮用时间减半。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "定量茶座与展示台",
+      "text": "定量茶座提供默认8000毫桶的单液体储存接口，可供兼容流体设备和工作花交互。装备展示台提供一个物品槽，用于承载需要修补的装备。$(br2)展示台中的附魔、物品自定义数据不会因为正常修补而被清空。容器绑定与魔力绑定不是同一件事。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "山海茶印",
+      "text": "手持茶印右键一朵受支持的花，成功后消耗一枚，为该花永久启用封存工作状态。默认工作速率为原来的11倍，每次工作仍遵守该花的原料和魔力规则，免费花不收费。$(br2)已经施印的花不能再次叠加；普通移植保留印记。候汤睡莲施印后可用任意兼容流体桶配置供给液体，操作返还空桶。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:travel_teapot"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:water_striding_ring"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:bamboo_grappling_hook"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:roasting_fan"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:porcelain_guard"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:shanhai_seal"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:mountain_invitation"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_seat"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:equipment_pedestal"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_ritual_table"
+    }
+  ]
+}

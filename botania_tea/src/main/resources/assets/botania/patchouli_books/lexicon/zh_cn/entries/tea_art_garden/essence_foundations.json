@@ -1,0 +1,49 @@
+{
+  "name": "从制茶到源质",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:tea_essence_stillbloom",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "先做第一份成品茶",
+      "text": "山海茶庭沿用植物魔法的魔力体系。先按茶艺流程制作成品茶，再用源质路线建立第一批魔法花；源质不是另一套通用能源。$(br2)茶块与茶渣属于茶艺基础内容，魔法花、成品茶树与器具属于本扩展。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "源质与升格茶汤",
+      "text": "茶叶源馏花用于茶源质路线，凝华花用于升格茶汤路线。为功能花提供魔力并准备对应原料，成品流体先储存在花内。$(br2)手持空玻璃瓶右键这两朵花可尝试装瓶；不足一瓶时不会得到成品。升格茶汤可装为瓶装升格茶汤或升格茶汤桶；兼容桶和流体管道可通过流体接口取用。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "花药台怎样投料",
+      "text": "新增十四朵花使用花药台配方。先给花药台加水，再把配方材料逐件丢入，最后投入植物魔法认可的种子。各花条目末尾显示当前真实配方。$(br2)候汤睡莲的配方水桶是额外材料：先加水，再投第二桶。蝶梦兰需要瓶装升格茶汤；成花时返还配方容器。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "魔力与物料绑定",
+      "text": "森林法杖的魔力绑定遵循植物魔法规则。需要指定物料容器的花，还要另设物料绑定：潜行右键容器记录位置，再潜行右键花。$(br2)目标维度、区块加载、输入种类和输出空间都可能影响工作。蝶梦兰只需红石启动，不需输入池。候汤睡莲、听雨绣球、守岁金莲与照夜昙花不消耗魔力。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "不工作时先检查",
+      "text": "先检查魔力是否足够、原料是否正确、目标是否已加载以及产物有没有位置存放。满容器和无效配方不会因茶印而变得有效。$(br2)本手册用默认数值说明操作；服务器开放的配置项或数据包可能改变建议值。需魔力的花每次工作仍付费；免费花施印后仍免费。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_essence_stillbloom"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:sublimation_bloom"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_essence_distiller"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:water_spark"
+    }
+  ]
+}

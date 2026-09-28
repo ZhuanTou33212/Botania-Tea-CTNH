@@ -1,0 +1,15 @@
+{
+  "name": "cleansing angelica",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:cleansing_angelica",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Defaults to Haste II. Configure with tea or potion, returning its container; empty hand resets. Paid area effects cleanse intersecting butterfly fog. Instant effects have a separate cooldown."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/cleansing_angelica"
+    }
+  ]
+}

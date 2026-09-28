@@ -1,0 +1,44 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "tea_art:oolong_tea_leaf"
+    },
+    {
+      "tag": "botania:petals/orange"
+    },
+    {
+      "tag": "botania:petals/orange"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "botania:rune_air"
+    },
+    {
+      "item": "botania:rune_autumn"
+    },
+    {
+      "item": "botania:rune_spring"
+    }
+  ],
+  "output": {
+    "item": "botania_tea:six_harmony_chrysanthemum"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

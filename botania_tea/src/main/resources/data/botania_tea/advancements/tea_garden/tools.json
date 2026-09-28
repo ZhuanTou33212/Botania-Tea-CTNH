@@ -1,0 +1,80 @@
+{
+  "parent": "botania_tea:tea_garden/root",
+  "display": {
+    "icon": {
+      "item": "botania_tea:travel_teapot"
+    },
+    "title": {
+      "translate": "advancements.botania_tea.tools.title"
+    },
+    "description": {
+      "translate": "advancements.botania_tea.tools.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "travel_teapot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania_tea:travel_teapot"
+            ]
+          }
+        ]
+      }
+    },
+    "water_striding_ring": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania_tea:water_striding_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "bamboo_grappling_hook": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania_tea:bamboo_grappling_hook"
+            ]
+          }
+        ]
+      }
+    },
+    "roasting_fan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania_tea:roasting_fan"
+            ]
+          }
+        ]
+      }
+    },
+    "porcelain_guard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania_tea:porcelain_guard"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

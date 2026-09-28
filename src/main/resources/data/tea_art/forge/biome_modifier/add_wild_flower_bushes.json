@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#tea_art:has_feature/wild_tea_patch",
+  "features": [
+    "tea_art:wild_jasmine_patch",
+    "tea_art:wild_gardenia_patch"
+  ],
+  "step": "vegetal_decoration"
+}

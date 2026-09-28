@@ -1,0 +1,67 @@
+{ "render_type": "minecraft:cutout",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "tea_art:item/tea_sieve",
+		"mesh": "tea_art:item/tea_sieve",
+		"frame": "tea_art:block/bamboo_planks"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 1, 14],
+			"faces": {
+				"up": {"uv": [1, 1, 15, 15], "texture": "#mesh"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#mesh"}
+			}
+		},
+		{
+			"from": [1, 0, 1],
+			"to": [15, 2, 2],
+			"faces": {
+				"north": {"uv": [1, 14, 15, 16], "texture": "#frame"},
+				"east": {"uv": [14, 14, 15, 16], "texture": "#frame"},
+				"south": {"uv": [1, 14, 15, 16], "texture": "#frame"},
+				"west": {"uv": [1, 14, 2, 16], "texture": "#frame"},
+				"up": {"uv": [1, 1, 15, 2], "texture": "#frame"},
+				"down": {"uv": [1, 14, 15, 15], "texture": "#frame"}
+			}
+		},
+		{
+			"from": [1, 0, 14],
+			"to": [15, 2, 15],
+			"faces": {
+				"north": {"uv": [1, 14, 15, 16], "texture": "#frame"},
+				"east": {"uv": [1, 14, 2, 16], "texture": "#frame"},
+				"south": {"uv": [1, 14, 15, 16], "texture": "#frame"},
+				"west": {"uv": [14, 14, 15, 16], "texture": "#frame"},
+				"up": {"uv": [1, 14, 15, 15], "texture": "#frame"},
+				"down": {"uv": [1, 1, 15, 2], "texture": "#frame"}
+			}
+		},
+		{
+			"from": [1, 0, 2],
+			"to": [2, 2, 14],
+			"faces": {
+				"north": {"uv": [14, 14, 15, 16], "texture": "#frame"},
+				"east": {"uv": [2, 14, 14, 16], "texture": "#frame"},
+				"south": {"uv": [1, 14, 2, 16], "texture": "#frame"},
+				"west": {"uv": [2, 14, 14, 16], "texture": "#frame"},
+				"up": {"uv": [1, 2, 2, 14], "texture": "#frame"},
+				"down": {"uv": [1, 2, 2, 14], "texture": "#frame"}
+			}
+		},
+		{
+			"from": [14, 0, 2],
+			"to": [15, 2, 14],
+			"faces": {
+				"north": {"uv": [1, 14, 2, 16], "texture": "#frame"},
+				"east": {"uv": [2, 14, 14, 16], "texture": "#frame"},
+				"south": {"uv": [14, 14, 15, 16], "texture": "#frame"},
+				"west": {"uv": [2, 14, 14, 16], "texture": "#frame"},
+				"up": {"uv": [14, 2, 15, 14], "texture": "#frame"},
+				"down": {"uv": [14, 2, 15, 14], "texture": "#frame"}
+			}
+		}
+	]
+}

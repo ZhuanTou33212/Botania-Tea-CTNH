@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "botania_tea:entity/tea_mountain_spirit",
+      "sprite": "botania_tea:entity/tea_mountain_spirit"
+    }
+  ]
+}

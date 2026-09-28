@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "SPS",
+    "BBB"
+  ],
+  "key": {
+    "B": { "item": "minecraft:bamboo" },
+    "S": { "item": "minecraft:string" },
+    "P": { "item": "minecraft:paper" }
+  },
+  "result": {
+    "item": "tea_art:withering_tray"
+  }
+}

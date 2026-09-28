@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#tea_art:has_feature/wild_tea_patch",
+  "features": "tea_art:wild_tea_patch",
+  "step": "vegetal_decoration"
+}

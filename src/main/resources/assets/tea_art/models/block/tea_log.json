@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tea_art:block/tea_log_top",
+    "side": "tea_art:block/tea_log"
+  }
+}

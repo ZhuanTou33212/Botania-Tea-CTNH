@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "stage=0": { "model": "tea_art:block/tea_sapling" },
+    "stage=1": { "model": "tea_art:block/tea_sapling" }
+  }
+}

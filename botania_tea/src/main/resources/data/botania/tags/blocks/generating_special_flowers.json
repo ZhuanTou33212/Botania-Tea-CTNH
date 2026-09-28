@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "botania_tea:aftertaste_daisy",
+    "botania_tea:six_harmony_chrysanthemum",
+    "botania_tea:projectile_bellflower",
+    "botania_tea:butterfly_orchid",
+    "botania_tea:floating_aftertaste_daisy",
+    "botania_tea:floating_six_harmony_chrysanthemum",
+    "botania_tea:floating_projectile_bellflower",
+    "botania_tea:floating_butterfly_orchid"
+  ]
+}

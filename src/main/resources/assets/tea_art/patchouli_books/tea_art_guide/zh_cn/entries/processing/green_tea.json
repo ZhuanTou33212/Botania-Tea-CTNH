@@ -1,0 +1,19 @@
+{
+  "name": "绿茶：杀青定色",
+  "icon": "tea_art:green_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 0,
+  "turnin": "tea_art:make_green_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "路线：鲜叶 -> 炒茶锅杀青 -> 揉茶台揉捻 -> 茶篦干燥。$(br2)绿茶的关键是尽快杀青，保住鲜爽和绿色。每道工序会记录在茶叶 NBT 上，最后干燥时转成绿茶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:green_tea_leaf",
+      "title": "任务",
+      "text": "获得绿茶会完成“初制绿茶”成就。本条目会跟随该成就完成进度。"
+    }
+  ]
+}

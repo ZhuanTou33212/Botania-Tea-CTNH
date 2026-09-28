@@ -1,0 +1,6 @@
+{ "render_type": "minecraft:cutout",
+  "parent": "tea_art:block/tintable_tea_crop",
+  "textures": {
+    "crop": "tea_art:block/tea_crop_growth_stage1"
+  }
+}

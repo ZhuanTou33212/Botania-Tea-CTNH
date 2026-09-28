@@ -1,0 +1,30 @@
+{
+  "name": "Input and Output Ports",
+  "icon": "tea_art:bamboo_pipe_output_port",
+  "category": "tea_art:pipes",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe_output_port",
+      "title": "Output Port",
+      "text": "Output ports mark an active extraction point. If a usable output port exists, it takes priority over default work block extraction."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe_input_port",
+      "title": "Input Port",
+      "text": "Input ports only receive items. The network tries ordinary targets first, then filtered input ports."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Filtering by Processing Step",
+      "text": "Ports have filter slots plus a whitelist/blacklist toggle. Put a $(l)processed tea leaf$() in a filter slot and the pipe matches by $(l)processing subset$(): a passing leaf is accepted when it $(l)contains all$() steps recorded on the sample.$(br2)Example: a sample with Fixing lets [Fixing], [Fixing+Rolling] and [Fixing+Rolling+Drying] through, while [Withering] and fresh leaves do not pass.$(br2)A sample of $(l)fresh leaf$() only matches other fresh leaves.$(br2)All other items still match the old way: item and NBT must be identical."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Filter Troubleshooting",
+      "text": "If a filter slot will not accept a sample or the result looks wrong, check: $(li)whitelist allows matching items, blacklist blocks them;$(li)the sample itself must carry processing steps — a fresh leaf only matches fresh leaves;$(li)if the network has no valid target, items stay where they are."
+    }
+  ]
+}

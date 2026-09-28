@@ -1,0 +1,15 @@
+{
+  "name": "water supply lily",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:water_supply_lily",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Free of mana. Every 20 work ticks, supplies 100mB to a nearby fluid container; an empty petal apothecary receives a full water basin without losing reagents. Full basins are skipped. Every successful refill emits particles. Sealed flowers accept a full sample bucket to configure other fluids, returning the bucket; apothecaries still only receive water."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/water_supply_lily"
+    }
+  ]
+}

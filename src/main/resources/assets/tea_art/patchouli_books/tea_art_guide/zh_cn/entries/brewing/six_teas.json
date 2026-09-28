@@ -1,0 +1,18 @@
+{
+  "name": "六大茶类总目标",
+  "icon": "tea_art:teapot",
+  "category": "tea_art:brewing",
+  "sortnum": 1,
+  "turnin": "tea_art:six_teas",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "总路线：采茶 -> 初制绿茶、白茶、黄茶、红茶、黑茶、乌龙茶 -> 茶几冲泡 -> 饮用茶汤。$(br2)当你收集六大茶类时，会完成“六大茶类”成就，Patchouli 书里的任务进度也会随之点亮。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "建议顺序",
+      "text": "先做绿茶熟悉杀青和揉捻，再做白茶和红茶熟悉干燥/发酵，最后做黄茶、黑茶和乌龙茶，体会闷黄、渥堆与做青的差异。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "tea_art:tea_seed"
+    },
+    "title": {
+      "translate": "advancements.tea_art.root.title"
+    },
+    "description": {
+      "translate": "advancements.tea_art.root.description"
+    },
+    "background": "minecraft:textures/block/bamboo_block.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "has_tea_seed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:tea_seed"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

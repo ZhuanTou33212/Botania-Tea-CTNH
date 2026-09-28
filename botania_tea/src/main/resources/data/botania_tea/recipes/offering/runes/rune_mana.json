@@ -1,0 +1,15 @@
+{
+ "type": "botania_tea:offering_crafting",
+ "elements": {
+  "botania_tea:magic_crystal": 16,
+  "botania_tea:crystal_crystal": 8,
+  "botania_tea:life_crystal": 8
+ },
+ "ascended_crystals": 0,
+ "mana": 12000,
+ "duration": 400,
+ "result": {
+  "item": "botania:rune_mana",
+  "count": 1
+ }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "tea_art:get_tea_leaf",
+  "display": {
+    "icon": {
+      "item": "tea_art:green_tea"
+    },
+    "title": {
+      "translate": "advancements.tea_art.brew_tea.title"
+    },
+    "description": {
+      "translate": "advancements.tea_art.brew_tea.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "has_tea": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tea_art:green_tea",
+              "tea_art:white_tea",
+              "tea_art:yellow_tea",
+              "tea_art:red_tea",
+              "tea_art:black_tea",
+              "tea_art:oolong_tea"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

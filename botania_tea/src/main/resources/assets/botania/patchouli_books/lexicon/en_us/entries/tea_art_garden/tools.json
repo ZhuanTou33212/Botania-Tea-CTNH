@@ -1,0 +1,63 @@
+{
+  "name": "Tools and the Seal",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:shanhai_seal",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The teapot holds 4000mB of one fluid and drinks 250mB tea. The ring works only in its curio slot; sneak to submerge. The hook always launches along the crosshair, attaches to the first solid block within 64 blocks, and disappears at maximum range if it hits nothing. In survival, launching costs 10 mana and pulling costs 10 mana per tick; creative is free. Reuse or sneak to recall it. The guard pays mana for frontal damage reduction; idle offhand use halves tea drinking time."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Using the fan costs 100 mana and ignites living creatures and fire-placeable blocks in a 3 by 3 vertical area centered two blocks ahead. Using it directly on a valid processing device also advances 20 normal processing ticks while respecting recipe, fuel and output space."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The Tea Seat provides a default 8000 mB single-fluid interface for compatible fluid devices and working flowers. The Equipment Pedestal holds one item slot, used to carry equipment that should be repaired.$(br2)Enchantments and custom item data on the pedestal are preserved by normal repair. Container binding and mana binding are different things."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Right-click a supported flower with the seal to consume one and permanently enable sealed work. Sealed work runs at 11x the default rate while still obeying that flower's material and mana rules; free flowers stay free.$(br2)A sealed flower cannot be sealed again, and normal relocation keeps the seal. A sealed Water Supply Lily accepts any compatible full fluid bucket as its sample, consumes the sample and returns the empty bucket."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:travel_teapot"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:water_striding_ring"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:bamboo_grappling_hook"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:roasting_fan"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:porcelain_guard"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:shanhai_seal"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:mountain_invitation"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_seat"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:equipment_pedestal"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:tea_ritual_table"
+    }
+  ]
+}

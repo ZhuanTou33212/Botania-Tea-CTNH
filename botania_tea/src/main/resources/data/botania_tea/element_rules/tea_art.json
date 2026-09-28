@@ -1,0 +1,5 @@
+[
+  {"schema_version":1,"priority":100,"selector":{"item_tag":"tea_art:finished_teas"},"categories":["plant_material","life_material"],"fallback_vector":{"plant":"1","life":"1"},"mode":"fallback_if_no_recipe","reason":"Tea leaf baseline after recipe routes"},
+  {"schema_version":1,"priority":90,"selector":{"item_tag":"tea_art:finished_tea_blocks"},"categories":["plant_material","life_material"],"fallback_vector":{"plant":"9","life":"9"},"mode":"fallback_if_no_recipe","reason":"Tea block compression baseline"},
+  {"schema_version":1,"priority":80,"selector":{"item_tag":"tea_art:tea_residues"},"categories":["plant_material","decay_material"],"fallback_vector":{"plant":"1","decay":"1"},"mode":"fallback_if_no_recipe","reason":"Tea residue is a plant byproduct with decay affinity"}
+]

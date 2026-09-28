@@ -1,0 +1,39 @@
+{
+  "name": "Offering Ritual",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:mana_offering",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Center the ritual on a Botania Runic Altar. Place five pedestals at the same height: one 3 blocks due north; two 1 block north, 2 east/west; two 3 blocks south, 2 east/west. Each pedestal stores one item type and supports manual and automated transfer."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Place the target category substrate (mineral/plant/magic/block/animal/monster/gear/grass/gaia; ritual substrate covers wands and misc) in the central Runic Altar. Put the recipe crystals on the offering pedestals, power the altar with redstone and provide nearby pool mana. Results appear above the altar. Missing structure, materials or mana resets progress."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Item frames attached to the altar whitelist their displayed outputs. Multiple frames use deterministic directional order and round-robin after success. Without frames, recipe ID order applies. Empty frames allow no recipes. This ritual currently handles both item crafting and targeted enchanting (enchanted books / random equipment)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sneak-right-click the Runic Altar while holding a pedestal to show pedestal-shaped placement ghosts. Each ghost disappears as its pedestal is placed; the guide clears when all five are complete. The guide places and consumes nothing."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The 7x7 layer directly below the altar must be built by the player from Livingrock; nothing is converted automatically. An incomplete or broken layer leaves the circle inactive. Any adjacent redstone signal works (do not replace the livingrock layer below)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Automatically binds the nearest pool within a horizontal 5x5 and two blocks vertically. Binding persists and is refreshed if the pool is removed. An empty bound pool is not replaced automatically. Successful payment displays Botania wisps."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Mana cost equals the output's total element quantity per item times output count times the current redstone-to-mana-powder infusion cost. Unresolved, fractional or overflowed outputs cannot be crafted or charged; rotation skips them."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:mana_offering"
+    }
+  ]
+}

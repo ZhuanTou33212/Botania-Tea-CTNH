@@ -1,0 +1,21 @@
+{
+ "type": "botania_tea:offering_crafting",
+ "substrate": {
+  "ingredient": {
+   "item": "botania_tea:ritual_substrate"
+  },
+  "count": 1
+ },
+ "elements": {
+  "fire_crystal": 16,
+  "motion_crystal": 16,
+  "sense_crystal": 16
+ },
+ "ascended_crystals": 0,
+ "mana": 10000,
+ "duration": 400,
+ "result": {
+  "item": "botania_tea:ember_beam_wand",
+  "count": 1
+ }
+}

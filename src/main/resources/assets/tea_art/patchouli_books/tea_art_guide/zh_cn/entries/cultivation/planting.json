@@ -1,0 +1,17 @@
+{
+  "name": "种植与生长",
+  "icon": "tea_art:tea_seed",
+  "category": "tea_art:cultivation",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "茶籽可以种成茶树。早期阶段只有少量嫩芽，后期逐渐长出侧枝和老叶；成熟后顶部会出现更明显的浅色芽头。$(br2)如果想稳定采茶，建议在水源附近或林地边缘开一片茶园，方便反复收获。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:tea_seed",
+      "text": "茶籽由小麦种子和任意树叶合成；鲜叶则进入制茶流程。"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/block",
+  "flower": {
+    "parent": "botania_tea:block/six_harmony_chrysanthemum"
+  },
+  "loader": "botania:floating_flower"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "six harmony chrysanthemum",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:six_harmony_chrysanthemum",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Every 40 work ticks, scans fluid containers within a centered horizontal 3x3 area and two blocks above/below. Drains 1000mB each of white, green, yellow, oolong, red and black tea in order. No partial reward: completing all six pays 76800 mana. A full cache preserves the last bucket. Wrong tea or less than a bucket is untouched. Progress saves."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/six_harmony_chrysanthemum"
+    }
+  ]
+}

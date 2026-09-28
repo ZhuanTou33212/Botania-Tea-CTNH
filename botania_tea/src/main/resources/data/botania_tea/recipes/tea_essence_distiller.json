@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ICI", "PBP", "III"],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "C": { "item": "minecraft:cauldron" },
+    "P": { "item": "botania:mana_powder" },
+    "B": { "item": "botania:livingrock" }
+  },
+  "result": { "item": "botania_tea:tea_essence_distiller" }
+}

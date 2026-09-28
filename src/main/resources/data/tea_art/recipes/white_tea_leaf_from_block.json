@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tea_art:white_tea_block"
+    }
+  ],
+  "result": {
+    "item": "tea_art:white_tea_leaf",
+    "count": 9
+  }
+}

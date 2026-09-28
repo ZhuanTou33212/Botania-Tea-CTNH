@@ -1,0 +1,22 @@
+{
+ "type": "botania_tea:offering_crafting",
+ "substrate": {
+  "ingredient": {
+   "item": "botania_tea:block_substrate"
+  },
+  "count": 1
+ },
+ "elements": {
+  "botania_tea:plant_crystal": 3,
+  "botania_tea:beast_crystal": 3
+ },
+ "colorable": true,
+ "dye_cost": 1,
+ "ascended_crystals": 0,
+ "mana": 2000,
+ "duration": 200,
+ "result": {
+  "item": "minecraft:white_bed",
+  "count": 1
+ }
+}

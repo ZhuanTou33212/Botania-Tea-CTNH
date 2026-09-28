@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "tea_art:white_tea_block"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:porcelain_guard"
+  }
+}

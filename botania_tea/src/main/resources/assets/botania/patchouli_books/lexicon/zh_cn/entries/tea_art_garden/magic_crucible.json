@@ -1,0 +1,23 @@
+{
+  "name": "魔力坩埚",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:magic_crucible",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "坩埚现在专用于提炼，没有操作面板，不再进行物品合成或定向附魔。输入茶源质液体，或右键放入源质瓶、源质桶；空手右键取出成品及返还容器。自动化不能抽走未加工原料。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每1000 mB同一种源质，一次产出对应的全部元素源晶，每种1个。对应关系沿用元素蒸馏配方，但无需投入茶叶或魔力粉末。当前每批100 tick、1000魔力，由附近魔力池支付；输出空间不足时不消耗源质或魔力。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "储液容量8000 mB，不混合不同源质。魔力池搜索范围为水平各6格、上下各2格。源质瓶提供250 mB并返还玻璃瓶，源质桶提供1000 mB并返还桶。物品炼成请使用魔力合成法阵。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "botania_tea:magic_crucible"
+    }
+  ]
+}

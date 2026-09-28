@@ -1,0 +1,34 @@
+{
+  "feature": {
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.12,
+          "feature": "minecraft:cherry_checked"
+        },
+        {
+          "chance": 0.05,
+          "feature": "tea_art:large_tea_tree"
+        }
+      ],
+      "default": "tea_art:tea_tree"
+    }
+  },
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 10
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

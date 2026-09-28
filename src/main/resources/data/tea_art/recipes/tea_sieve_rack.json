@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BTB",
+    "TST",
+    "BTB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bamboo"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "tea_art:tea_sieve"
+    }
+  },
+  "result": {
+    "item": "tea_art:tea_sieve_rack"
+  }
+}

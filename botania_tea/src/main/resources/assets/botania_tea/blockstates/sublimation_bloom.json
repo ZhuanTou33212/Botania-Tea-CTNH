@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "idle=false": { "model": "botania_tea:block/sublimation_bloom" },
+    "idle=true": { "model": "botania_tea:block/sublimation_bloom_idle" }
+  }
+}

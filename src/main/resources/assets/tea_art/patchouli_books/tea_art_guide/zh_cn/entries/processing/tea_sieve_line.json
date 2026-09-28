@@ -1,0 +1,23 @@
+{
+  "name": "茶篦与茶篦架",
+  "icon": "tea_art:tea_sieve_rack",
+  "category": "tea_art:processing",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "茶篦",
+      "text": "茶篦既是物品也是方块，1 个茶篦即 1 个方块。$(br2)茶篦是茶篦架的工作部件；先合成茶篦与茶篦架，再把茶篦装进架子。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "茶篦架",
+      "text": "茶篦架最多可装 3 个茶篦，每个槽独立工作。$(br2)每个槽干燥一批耗时为 400 tick（20 秒）。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "干燥制茶",
+      "text": "把杀青、揉捻后的茶叶放到茶篦架上干燥，即可转成对应的成品茶。"
+    }
+  ]
+}

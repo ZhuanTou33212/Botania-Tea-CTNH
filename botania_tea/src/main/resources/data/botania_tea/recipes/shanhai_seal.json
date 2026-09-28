@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "botania_tea:mountain_heartwood"
+    },
+    {
+      "item": "botania_tea:tea_mountain_memory"
+    },
+    {
+      "item": "botania_tea:clarity_porcelain_shard"
+    },
+    {
+      "item": "botania_tea:clarity_porcelain_shard"
+    },
+    {
+      "item": "botania_tea:ascended_tea_liquor_bottle"
+    }
+  ],
+  "result": {
+    "item": "botania_tea:shanhai_seal"
+  }
+}

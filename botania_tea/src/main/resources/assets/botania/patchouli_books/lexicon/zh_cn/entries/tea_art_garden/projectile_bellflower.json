@@ -1,0 +1,15 @@
+{
+  "name": "惊露风铃",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:projectile_bellflower",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "捕获箭与兼容火球，收益ceil(500×速度²)，弹体仅结算一次。入缓存成功后移除弹体并伤害范围内非玩家生物，不把玩家当作伤害目标。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/projectile_bellflower"
+    }
+  ]
+}

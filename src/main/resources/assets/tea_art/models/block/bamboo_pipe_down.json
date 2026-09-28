@@ -1,0 +1,37 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"0": "tea_art:block/bamboo_pipe",
+		"1": "tea_art:block/bamboo_pipe_top",
+		"particle": "tea_art:block/bamboo_pipe"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 6, 10],
+			"faces": {
+				"north": {"uv": [6, 6, 10, 12], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [6, 6, 10, 12], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [6, 6, 10, 12], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [6, 6, 10, 12], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [6, 6, 10, 10], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [6, 6, 10, 10], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"from": [5.75, 2, 5.75],
+			"to": [10.25, 4, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 2, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"east": {"uv": [0, 0, 2.5, 2], "texture": "#1"},
+				"south": {"uv": [0, 0, 2.5, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 2.5, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 2.5, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 2.5, 2], "texture": "#1"}
+			}
+		}
+	]
+}

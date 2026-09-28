@@ -1,0 +1,18 @@
+{
+  "name": "Six Tea Goal",
+  "icon": "tea_art:teapot",
+  "category": "tea_art:brewing",
+  "sortnum": 1,
+  "turnin": "tea_art:six_teas",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Overall route: harvest tea -> make green, white, yellow, red, dark, and oolong tea -> brew at the tea table -> drink infusions.$(br2)Collecting all six tea categories completes the “Six Tea Categories” advancement and lights up this Patchouli task."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Suggested Order",
+      "text": "Start with green tea to learn fixation, then white and red tea for withering and rolling, then yellow, dark, and oolong tea for yellowing, piling, and roasting."
+    }
+  ]
+}

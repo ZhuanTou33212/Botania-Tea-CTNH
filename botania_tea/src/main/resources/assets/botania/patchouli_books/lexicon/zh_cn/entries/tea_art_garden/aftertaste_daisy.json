@@ -1,0 +1,15 @@
+{
+  "name": "余甘雏菊",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:aftertaste_daisy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "消耗掉落或绑定容器中的茶渣。默认40工作tick燃烧一份并产生400魔力。魔力无处存放时不会继续吞料。$(br2)茶渣来源：茶几冲泡每消耗 1 片茶叶产出 1 份；装有 Create 动力附属时，浸茶罐把茶叶泡成茶汤也会每片产 1 份，每个罐体方块最多存 64 份，满仓时整机停工。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/aftertaste_daisy"
+    }
+  ]
+}

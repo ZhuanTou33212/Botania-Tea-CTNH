@@ -1,0 +1,15 @@
+{
+  "name": "heteromorphic camellia",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:heteromorphic_camellia",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Use an essence bottle to choose tea. Consumes 250mB and 5000 mana to convert a nearby tea crop into the corresponding finished tea crop, preserving its growth age with visible particles. Not a sapling or tree generator. Eight growth sprites; mature use harvests one matching finished leaf and resets age to zero. Matching crops are not billed again."
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/heteromorphic_camellia"
+    }
+  ]
+}

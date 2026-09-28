@@ -1,0 +1,15 @@
+{
+  "name": "六韵茶菊",
+  "category": "botania:tea_art_garden",
+  "icon": "botania_tea:six_harmony_chrysanthemum",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "每40工作刻扫描水平3×3、上下各2格的可抽液容器，依次取白、绿、黄、乌龙、红、黑茶液，每步1000mB。$(br2)需要茶艺茶液，不是茶精华；空手右键可查看下一杯。前五步不产魔，第六步结算76800魔力。错误液体、不足一桶或末步缓存不足时保留液体与进度。"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "recipe": "botania_tea:petal_apothecary/six_harmony_chrysanthemum"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "type": "botania_tea:offering_crafting",
+ "elements": {
+  "botania_tea:water_crystal": 16
+ },
+ "ascended_crystals": 0,
+ "mana": 4000,
+ "duration": 400,
+ "result": {
+  "item": "botania:rune_water",
+  "count": 1
+ }
+}

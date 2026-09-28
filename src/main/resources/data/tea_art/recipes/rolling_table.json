@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "SPS",
+    "S S"
+  ],
+  "key": {
+    "W": { "item": "minecraft:oak_slab" },
+    "P": { "item": "tea_art:tea_planks" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "tea_art:rolling_table"
+  }
+}

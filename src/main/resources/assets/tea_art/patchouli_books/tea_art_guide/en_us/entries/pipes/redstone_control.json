@@ -1,0 +1,19 @@
+{
+  "name": "Redstone Ports",
+  "icon": "tea_art:bamboo_pipe_redstone_port",
+  "category": "tea_art:pipes",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tea_art:bamboo_pipe_redstone_port",
+      "title": "Line Control",
+      "text": "A redstone port stops only the controlled line. When closed, items cannot pass through that port, but the neighboring pipe model remains connected."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Inversion",
+      "text": "Normal mode closes while powered. Inverted mode closes while unpowered. Empty-hand right-click toggles the mode."
+    }
+  ]
+}

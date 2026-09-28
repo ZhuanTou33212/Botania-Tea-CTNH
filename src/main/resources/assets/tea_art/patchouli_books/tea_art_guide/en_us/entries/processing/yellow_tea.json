@@ -1,0 +1,19 @@
+{
+  "name": "Yellow Tea: Yellowing",
+  "icon": "tea_art:yellow_tea_leaf",
+  "category": "tea_art:processing",
+  "sortnum": 2,
+  "turnin": "tea_art:make_yellow_tea",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Route: fresh leaf -> pan fixation -> rolling table -> charcoal-roaster yellowing -> sieve-rack drying.$(br2)Yellowing warms the color and softens the taste. Drying finishes it as yellow tea."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tea_art:yellow_tea_leaf",
+      "title": "Task",
+      "text": "Obtaining yellow tea completes the “Yellowing Aroma” advancement."
+    }
+  ]
+}

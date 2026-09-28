@@ -1,0 +1,1955 @@
+[
+ {
+  "schema_version": 1,
+  "priority": 1200,
+  "selector": {
+   "item": "minecraft:acacia_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1201,
+  "selector": {
+   "item": "minecraft:allium"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1202,
+  "selector": {
+   "item": "minecraft:amethyst_shard"
+  },
+  "fallback_vector": {
+   "crystal": "1",
+   "magic": "3"
+  },
+  "mode": "override",
+  "reason": "指定：紫水晶碎片=晶体1+魔法3"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1203,
+  "selector": {
+   "item": "minecraft:apple"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1204,
+  "selector": {
+   "item": "minecraft:azure_bluet"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1205,
+  "selector": {
+   "item": "minecraft:baked_potato"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "修正：烤马铃薯=草木1+生机1（原落到兜底机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1206,
+  "selector": {
+   "item": "minecraft:bamboo"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1207,
+  "selector": {
+   "item": "minecraft:bamboo_mosaic"
+  },
+  "fallback_vector": {
+   "plant": "3",
+   "life": "3"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1208,
+  "selector": {
+   "item": "minecraft:basalt"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1209,
+  "selector": {
+   "item": "minecraft:beetroot"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1210,
+  "selector": {
+   "item": "minecraft:birch_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1211,
+  "selector": {
+   "item": "minecraft:blackstone"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1212,
+  "selector": {
+   "item": "minecraft:blaze_rod"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "mechanism": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1213,
+  "selector": {
+   "item": "minecraft:blue_orchid"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1214,
+  "selector": {
+   "item": "minecraft:bone"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1215,
+  "selector": {
+   "item": "minecraft:bone_meal"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1216,
+  "selector": {
+   "item": "minecraft:brick"
+  },
+  "fallback_vector": {
+   "earth": "1",
+   "fire": "1"
+  },
+  "mode": "override",
+  "reason": "修正：红砖=土地1+火焰1（黏土烧制）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1217,
+  "selector": {
+   "item": "minecraft:brown_mushroom"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1218,
+  "selector": {
+   "item": "minecraft:carrot"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "修正：胡萝卜=草木1+生机1（原被 Botania 马铃薯→胡萝卜注入兜底机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1219,
+  "selector": {
+   "item": "minecraft:carved_pumpkin"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "sense": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1220,
+  "selector": {
+   "item": "minecraft:chain"
+  },
+  "fallback_vector": {
+   "metal": "1"
+  },
+  "mode": "override",
+  "reason": "修正：锁链=金属1（1铁锭+2铁粒；铁粒已取消要素，按守恒取金属1）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1221,
+  "selector": {
+   "item": "minecraft:charcoal"
+  },
+  "fallback_vector": {
+   "fire": "3",
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "指定：木炭=火焰3+草木4（与煤炭同为燃料，保持一致）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1222,
+  "selector": {
+   "item": "minecraft:cherry_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1223,
+  "selector": {
+   "item": "minecraft:chiseled_stone_bricks"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1224,
+  "selector": {
+   "item": "minecraft:clay_ball"
+  },
+  "fallback_vector": {
+   "earth": "1"
+  },
+  "mode": "override",
+  "reason": "修正：黏土球=土地1（原被 Create 滴水石研磨定为岩石）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1225,
+  "selector": {
+   "item": "minecraft:coal"
+  },
+  "fallback_vector": {
+   "fire": "3",
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "指定：煤炭=火焰3+草木4"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1226,
+  "selector": {
+   "item": "minecraft:cobbled_deepslate"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1227,
+  "selector": {
+   "item": "minecraft:cobblestone"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1228,
+  "selector": {
+   "item": "minecraft:cocoa_beans"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1229,
+  "selector": {
+   "item": "minecraft:cooked_rabbit"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "修正：熟兔肉=兽性1（熟肉去掉分解）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1230,
+  "selector": {
+   "item": "minecraft:copper_ingot"
+  },
+  "fallback_vector": {
+   "earth": "1",
+   "metal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1231,
+  "selector": {
+   "item": "minecraft:cornflower"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1232,
+  "selector": {
+   "item": "minecraft:creeper_head"
+  },
+  "fallback_vector": {
+   "beast": "1",
+   "soul": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1233,
+  "selector": {
+   "item": "minecraft:crimson_stem"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1234,
+  "selector": {
+   "item": "minecraft:crying_obsidian"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1235,
+  "selector": {
+   "item": "minecraft:dandelion"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1236,
+  "selector": {
+   "item": "minecraft:dark_oak_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1237,
+  "selector": {
+   "item": "minecraft:diamond"
+  },
+  "fallback_vector": {
+   "fire": "32",
+   "crystal": "64"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1238,
+  "selector": {
+   "item": "minecraft:dirt"
+  },
+  "fallback_vector": {
+   "earth": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1239,
+  "selector": {
+   "item": "minecraft:disc_fragment_5"
+  },
+  "fallback_vector": {
+   "sense": "1",
+   "decay": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1240,
+  "selector": {
+   "item": "minecraft:dried_kelp"
+  },
+  "fallback_vector": {
+   "plant": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1241,
+  "selector": {
+   "item": "minecraft:echo_shard"
+  },
+  "fallback_vector": {
+   "soul": "512",
+   "space": "512"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1242,
+  "selector": {
+   "item": "minecraft:egg"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1243,
+  "selector": {
+   "item": "minecraft:emerald"
+  },
+  "fallback_vector": {
+   "crystal": "10",
+   "order": "10"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1244,
+  "selector": {
+   "item": "minecraft:enchanted_golden_apple"
+  },
+  "fallback_vector": {
+   "plant": "512",
+   "life": "512",
+   "protection": "512",
+   "magic": "512"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1245,
+  "selector": {
+   "item": "minecraft:end_stone"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1246,
+  "selector": {
+   "item": "minecraft:ender_eye"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "soul": "1",
+   "mechanism": "1",
+   "magic": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1247,
+  "selector": {
+   "item": "minecraft:ender_pearl"
+  },
+  "fallback_vector": {
+   "soul": "1",
+   "magic": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1248,
+  "selector": {
+   "item": "minecraft:exposed_copper"
+  },
+  "fallback_vector": {
+   "earth": "9",
+   "metal": "9"
+  },
+  "mode": "override",
+  "reason": "指定：斑驳铜块=与铜块一致（土地9+金属9）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1249,
+  "selector": {
+   "item": "minecraft:feather"
+  },
+  "fallback_vector": {
+   "air": "2"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1250,
+  "selector": {
+   "item": "minecraft:flint"
+  },
+  "fallback_vector": {
+   "stone": "3",
+   "fire": "1"
+  },
+  "mode": "override",
+  "reason": "指定：燧石=岩石3+火焰1"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1251,
+  "selector": {
+   "item": "minecraft:ghast_tear"
+  },
+  "fallback_vector": {
+   "soul": "1",
+   "magic": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1252,
+  "selector": {
+   "item": "minecraft:glass"
+  },
+  "fallback_vector": {
+   "crystal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1253,
+  "selector": {
+   "item": "minecraft:glow_ink_sac"
+  },
+  "fallback_vector": {
+   "water": "1",
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1254,
+  "selector": {
+   "item": "minecraft:glowstone_dust"
+  },
+  "fallback_vector": {
+   "magic": "1",
+   "sense": "1"
+  },
+  "mode": "override",
+  "reason": "修正：荧石粉=魔法1+感知1（原沿红石链为动力+秩序）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1255,
+  "selector": {
+   "item": "minecraft:gold_ingot"
+  },
+  "fallback_vector": {
+   "metal": "5",
+   "order": "2"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1256,
+  "selector": {
+   "item": "minecraft:gravel"
+  },
+  "fallback_vector": {
+   "earth": "1",
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "指定：沙砾=土地1+岩石1（与沙子同族）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1257,
+  "selector": {
+   "item": "minecraft:green_dye"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "修正：绿色染料=草木1+生机1（原版仙人掌烧制，原被 Botania 花瓣染料带魔力）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1258,
+  "selector": {
+   "item": "minecraft:gunpowder"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "mechanism": "1"
+  },
+  "mode": "override",
+  "reason": "修正：火药=火焰1+机关1（原沿 Create 研磨链为岩石）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1259,
+  "selector": {
+   "item": "minecraft:heart_of_the_sea"
+  },
+  "fallback_vector": {
+   "water": "2048",
+   "magic": "2048"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1260,
+  "selector": {
+   "item": "minecraft:honeycomb"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1261,
+  "selector": {
+   "item": "minecraft:ice"
+  },
+  "fallback_vector": {
+   "water": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1262,
+  "selector": {
+   "item": "minecraft:ink_sac"
+  },
+  "fallback_vector": {
+   "water": "1",
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1263,
+  "selector": {
+   "item": "minecraft:iron_ingot"
+  },
+  "fallback_vector": {
+   "metal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1264,
+  "selector": {
+   "item": "minecraft:jungle_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1265,
+  "selector": {
+   "item": "minecraft:lapis_lazuli"
+  },
+  "fallback_vector": {
+   "stone": "5",
+   "order": "1",
+   "magic": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1266,
+  "selector": {
+   "item": "minecraft:lilac"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1267,
+  "selector": {
+   "item": "minecraft:lily_of_the_valley"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1268,
+  "selector": {
+   "item": "minecraft:magma_cream"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "修正：岩浆膏=火焰1+兽性1"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1269,
+  "selector": {
+   "item": "minecraft:mangrove_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1270,
+  "selector": {
+   "item": "minecraft:mangrove_roots"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "water": "1"
+  },
+  "mode": "override",
+  "reason": "修正：红树根=草木1+水流1（原落到兜底机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1271,
+  "selector": {
+   "item": "minecraft:melon_slice"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1272,
+  "selector": {
+   "item": "minecraft:milk_bucket"
+  },
+  "fallback_vector": {
+   "water": "1",
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1273,
+  "selector": {
+   "item": "minecraft:moss_block"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1274,
+  "selector": {
+   "item": "minecraft:mud"
+  },
+  "fallback_vector": {
+   "earth": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1275,
+  "selector": {
+   "item": "minecraft:nautilus_shell"
+  },
+  "fallback_vector": {
+   "water": "1",
+   "protection": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1276,
+  "selector": {
+   "item": "minecraft:nether_brick"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "修正：下界砖=火焰1+岩石1（原被 Create 缠魂定为岩石4）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1277,
+  "selector": {
+   "item": "minecraft:nether_star"
+  },
+  "fallback_vector": {
+   "fire": "256",
+   "soul": "512",
+   "magic": "512"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1278,
+  "selector": {
+   "item": "minecraft:nether_wart"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "修正：下界疣=火焰1+生机1（原沿 Botania 烈焰棒链为火焰+机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1279,
+  "selector": {
+   "item": "minecraft:netherite_ingot"
+  },
+  "fallback_vector": {
+   "fire": "4",
+   "stone": "20",
+   "metal": "344",
+   "order": "8"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1280,
+  "selector": {
+   "item": "minecraft:netherite_scrap"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "stone": "5",
+   "metal": "81"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1281,
+  "selector": {
+   "item": "minecraft:netherrack"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1282,
+  "selector": {
+   "item": "minecraft:oak_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1283,
+  "selector": {
+   "item": "minecraft:obsidian"
+  },
+  "fallback_vector": {
+   "fire": "16",
+   "stone": "16"
+  },
+  "mode": "override",
+  "reason": "指定：黑曜石=火焰16+岩石16"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1284,
+  "selector": {
+   "item": "minecraft:orange_tulip"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1285,
+  "selector": {
+   "item": "minecraft:oxeye_daisy"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1286,
+  "selector": {
+   "item": "minecraft:oxidized_copper"
+  },
+  "fallback_vector": {
+   "earth": "9",
+   "metal": "9"
+  },
+  "mode": "override",
+  "reason": "指定：氧化铜块=与铜块一致（土地9+金属9）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1287,
+  "selector": {
+   "item": "minecraft:peony"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1288,
+  "selector": {
+   "item": "minecraft:pink_petals"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1289,
+  "selector": {
+   "item": "minecraft:pink_tulip"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1290,
+  "selector": {
+   "item": "minecraft:pitcher_plant"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1291,
+  "selector": {
+   "item": "minecraft:pointed_dripstone"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1292,
+  "selector": {
+   "item": "minecraft:popped_chorus_fruit"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "space": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1293,
+  "selector": {
+   "item": "minecraft:poppy"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1294,
+  "selector": {
+   "item": "minecraft:prismarine_crystals"
+  },
+  "fallback_vector": {
+   "crystal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1295,
+  "selector": {
+   "item": "minecraft:prismarine_shard"
+  },
+  "fallback_vector": {
+   "crystal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1296,
+  "selector": {
+   "item": "minecraft:pumpkin"
+  },
+  "fallback_vector": {
+   "plant": "4",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "修正：南瓜=草木4+生机1（原被 FD 南瓜片配方抬到草木16）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1297,
+  "selector": {
+   "item": "minecraft:quartz"
+  },
+  "fallback_vector": {
+   "fire": "1",
+   "stone": "5",
+   "crystal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1298,
+  "selector": {
+   "item": "minecraft:rabbit_hide"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "修正：兔子皮=兽性1（原为兜底机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1299,
+  "selector": {
+   "item": "minecraft:raw_copper"
+  },
+  "fallback_vector": {
+   "earth": "1",
+   "stone": "5",
+   "metal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1300,
+  "selector": {
+   "item": "minecraft:raw_gold"
+  },
+  "fallback_vector": {
+   "stone": "5",
+   "metal": "5",
+   "order": "2"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1301,
+  "selector": {
+   "item": "minecraft:raw_iron"
+  },
+  "fallback_vector": {
+   "stone": "5",
+   "metal": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1302,
+  "selector": {
+   "item": "minecraft:red_mushroom"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1303,
+  "selector": {
+   "item": "minecraft:red_sand"
+  },
+  "fallback_vector": {
+   "earth": "1",
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "指定：红沙=土地1+岩石1（与沙子同族，原被 Botania 灌注定为机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1304,
+  "selector": {
+   "item": "minecraft:red_tulip"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1305,
+  "selector": {
+   "item": "minecraft:redstone"
+  },
+  "fallback_vector": {
+   "motion": "1",
+   "order": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1306,
+  "selector": {
+   "item": "minecraft:rose_bush"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1307,
+  "selector": {
+   "item": "minecraft:sand"
+  },
+  "fallback_vector": {
+   "earth": "1",
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "指定：沙子=土地1+岩石1（沙砾同族，岩石代表矿物颗粒）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1308,
+  "selector": {
+   "item": "minecraft:sculk_sensor"
+  },
+  "fallback_vector": {
+   "soul": "1",
+   "decay": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1309,
+  "selector": {
+   "item": "minecraft:scute"
+  },
+  "fallback_vector": {
+   "beast": "1",
+   "protection": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1310,
+  "selector": {
+   "item": "minecraft:shulker_shell"
+  },
+  "fallback_vector": {
+   "beast": "2",
+   "protection": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1311,
+  "selector": {
+   "item": "minecraft:slime_ball"
+  },
+  "fallback_vector": {
+   "beast": "1",
+   "water": "1"
+  },
+  "mode": "override",
+  "reason": "修正：黏液球=兽性1+水流1（原被 Botania 仙人掌循环定为草木+生机）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1312,
+  "selector": {
+   "item": "minecraft:smooth_quartz"
+  },
+  "fallback_vector": {
+   "crystal": "9"
+  },
+  "mode": "override",
+  "reason": "修正：平滑石英块=晶体9（石英块为晶体81）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1313,
+  "selector": {
+   "item": "minecraft:smooth_red_sandstone"
+  },
+  "fallback_vector": {
+   "earth": "4",
+   "stone": "4"
+  },
+  "mode": "override",
+  "reason": "修正：平滑红砂岩=土地4+岩石4（与平滑砂岩一致，原为机关4）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1314,
+  "selector": {
+   "item": "minecraft:smooth_sandstone"
+  },
+  "fallback_vector": {
+   "earth": "4",
+   "stone": "4"
+  },
+  "mode": "override",
+  "reason": "指定：平滑砂岩=土地4+岩石4（1砂岩=4沙，守恒）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1315,
+  "selector": {
+   "item": "minecraft:smooth_stone"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1316,
+  "selector": {
+   "item": "minecraft:snowball"
+  },
+  "fallback_vector": {
+   "water": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1317,
+  "selector": {
+   "item": "minecraft:spider_eye"
+  },
+  "fallback_vector": {
+   "beast": "1",
+   "decay": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1318,
+  "selector": {
+   "item": "minecraft:spruce_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1319,
+  "selector": {
+   "item": "minecraft:stone"
+  },
+  "fallback_vector": {
+   "stone": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1320,
+  "selector": {
+   "item": "minecraft:string"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1321,
+  "selector": {
+   "item": "minecraft:stripped_acacia_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1322,
+  "selector": {
+   "item": "minecraft:stripped_bamboo_block"
+  },
+  "fallback_vector": {
+   "plant": "9",
+   "life": "9"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1323,
+  "selector": {
+   "item": "minecraft:stripped_birch_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1324,
+  "selector": {
+   "item": "minecraft:stripped_cherry_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1325,
+  "selector": {
+   "item": "minecraft:stripped_crimson_stem"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1326,
+  "selector": {
+   "item": "minecraft:stripped_dark_oak_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1327,
+  "selector": {
+   "item": "minecraft:stripped_jungle_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1328,
+  "selector": {
+   "item": "minecraft:stripped_mangrove_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1329,
+  "selector": {
+   "item": "minecraft:stripped_oak_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1330,
+  "selector": {
+   "item": "minecraft:stripped_spruce_log"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1331,
+  "selector": {
+   "item": "minecraft:stripped_warped_stem"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1332,
+  "selector": {
+   "item": "minecraft:sugar_cane"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1333,
+  "selector": {
+   "item": "minecraft:sunflower"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1334,
+  "selector": {
+   "item": "minecraft:terracotta"
+  },
+  "fallback_vector": {
+   "earth": "1",
+   "fire": "1"
+  },
+  "mode": "override",
+  "reason": "修正：陶瓦=土地1+火焰1（黏土烧制，原为兜底机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1335,
+  "selector": {
+   "item": "minecraft:torchflower"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1336,
+  "selector": {
+   "item": "minecraft:vine"
+  },
+  "fallback_vector": {
+   "water": "1",
+   "plant": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1337,
+  "selector": {
+   "item": "minecraft:warped_fungus"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1338,
+  "selector": {
+   "item": "minecraft:warped_stem"
+  },
+  "fallback_vector": {
+   "plant": "4"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1339,
+  "selector": {
+   "item": "minecraft:weathered_copper"
+  },
+  "fallback_vector": {
+   "earth": "9",
+   "metal": "9"
+  },
+  "mode": "override",
+  "reason": "指定：锈蚀铜块=与铜块一致（土地9+金属9）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1340,
+  "selector": {
+   "item": "minecraft:wheat"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1341,
+  "selector": {
+   "item": "minecraft:white_tulip"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1342,
+  "selector": {
+   "item": "minecraft:wither_rose"
+  },
+  "fallback_vector": {
+   "plant": "1",
+   "life": "1"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1343,
+  "selector": {
+   "item": "minecraft:wither_skeleton_skull"
+  },
+  "fallback_vector": {
+   "fire": "128",
+   "soul": "256",
+   "magic": "256"
+  },
+  "mode": "override",
+  "reason": "原版基准单位：无法通过工作台合成，固定现值防止被模组转化配方改写"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1344,
+  "selector": {
+   "item": "minecraft:rabbit_foot"
+  },
+  "fallback_vector": {
+   "beast": "1"
+  },
+  "mode": "override",
+  "reason": "修正：兔子脚=兽性1（原为兜底机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1345,
+  "selector": {
+   "item": "minecraft:clay"
+  },
+  "fallback_vector": {
+   "earth": "4"
+  },
+  "mode": "override",
+  "reason": "追加：黏土块=土地4（4×黏土球，原落到兜底机关）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1346,
+  "selector": {
+   "item": "minecraft:coal_block"
+  },
+  "fallback_vector": {
+   "fire": "27",
+   "plant": "36"
+  },
+  "mode": "override",
+  "reason": "追加：煤炭块=9×煤炭（火焰27+草木36）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1347,
+  "selector": {
+   "item": "minecraft:coal_ore"
+  },
+  "fallback_vector": {
+   "fire": "3",
+   "plant": "4",
+   "stone": "5"
+  },
+  "mode": "override",
+  "reason": "追加：煤矿石=煤炭+5岩石（火焰3+草木4+岩石5）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1348,
+  "selector": {
+   "item": "minecraft:deepslate_coal_ore"
+  },
+  "fallback_vector": {
+   "fire": "3",
+   "plant": "4",
+   "stone": "5"
+  },
+  "mode": "override",
+  "reason": "追加：深层煤矿石=煤炭+5岩石（火焰3+草木4+岩石5）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1349,
+  "selector": {
+   "item": "minecraft:waxed_copper_block"
+  },
+  "fallback_vector": {
+   "earth": "9",
+   "metal": "9"
+  },
+  "mode": "override",
+  "reason": "追加：涂蜡铜块=与铜块一致（涂蜡不改材质，视为不可直接合成）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1350,
+  "selector": {
+   "item": "minecraft:waxed_exposed_copper"
+  },
+  "fallback_vector": {
+   "earth": "9",
+   "metal": "9"
+  },
+  "mode": "override",
+  "reason": "追加：涂蜡斑驳铜块=与铜块一致（视为不可直接合成）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1351,
+  "selector": {
+   "item": "minecraft:waxed_weathered_copper"
+  },
+  "fallback_vector": {
+   "earth": "9",
+   "metal": "9"
+  },
+  "mode": "override",
+  "reason": "追加：涂蜡锈蚀铜块=与铜块一致（视为不可直接合成）"
+ },
+ {
+  "schema_version": 1,
+  "priority": 1352,
+  "selector": {
+   "item": "minecraft:waxed_oxidized_copper"
+  },
+  "fallback_vector": {
+   "earth": "9",
+   "metal": "9"
+  },
+  "mode": "override",
+  "reason": "追加：涂蜡氧化铜块=与铜块一致（视为不可直接合成）"
+ }
+]

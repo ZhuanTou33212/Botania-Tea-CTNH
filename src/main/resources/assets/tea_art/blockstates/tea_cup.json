@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "cups=1": { "model": "tea_art:block/tea_cup_1" },
+    "cups=2": { "model": "tea_art:block/tea_cup_2" },
+    "cups=3": { "model": "tea_art:block/tea_cup_3" }
+  }
+}
